@@ -4,6 +4,7 @@ public class Main {
     class Node implements Comparable<Node> {
         double longitude;
         double latitude;
+        HashMap<Node, Double> connections;
 
         @Override
         public int compareTo(Node other) {
@@ -11,25 +12,15 @@ public class Main {
         }
     }
 
-    class Edge implements Comparable<Edge> {
-        Node a;
-        Node b;
-        double length;
-
-        @Override
-        public int compareTo(Edge other) {
-            return Double.compare(this.length, other.length);
-        }
-    }
-
     private static final int DEGREES_PER_RADIAN = 180;
     private static final String INPUT_FILE = "../resources/D1Schools.csv";
 
-    private static ArrayList<Node> nodes;
-    private static ArrayList<Edge> edges;
+    private static TreeSet<Node> nodes;
+    private static HashSet<Node> nodesInTree;
 
     public static void main(String[] args) {
-
+        nodes = new TreeSet<>();
+        nodesInTree = new HashSet<>();
     }
 
     public static void readCSVFile(String filename) {
