@@ -1,15 +1,25 @@
 import java.util.ArrayList;
 
 public class Main {
-    class Node {
+    class Node implements Comparable<Node> {
         double longitude;
         double latitude;
+
+        @Override
+        public int compareTo(Node other) {
+            return Double.compare(this.longitude, other.longitude);
+        }
     }
 
-    class Edge {
+    class Edge implements Comparable<Edge> {
         Node a;
         Node b;
         double length;
+
+        @Override
+        public int compareTo(Edge other) {
+            return Double.compare(this.length, other.length);
+        }
     }
 
     private static final int DEGREES_PER_RADIAN = 180;
@@ -26,17 +36,9 @@ public class Main {
 
     }
 
-    public static void sortNodes() {
-        // Sort by longitude
-    }
-
     public static void connectEdges() {
         // Connect all nodes within certain longitude and latitude range
         // Connect Hawaii to all West Coast schools
-    }
-
-    public static void sortEdges(){
-        // Sort by great circle distance
     }
 
     public static double greatCircleDistance(Node A, Node B) {
