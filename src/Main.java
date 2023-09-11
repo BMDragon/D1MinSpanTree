@@ -1,4 +1,9 @@
-import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.TreeSet;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 
 public class Main {
     class Node implements Comparable<Node> {
@@ -13,7 +18,7 @@ public class Main {
     }
 
     private static final int DEGREES_PER_RADIAN = 180;
-    private static final String INPUT_FILE = "../resources/D1Schools.csv";
+    private static final String INPUT_FILE = "./resources/D1Schools.csv";
 
     private static TreeSet<Node> nodes;
     private static HashSet<Node> nodesInTree;
@@ -21,10 +26,26 @@ public class Main {
     public static void main(String[] args) {
         nodes = new TreeSet<>();
         nodesInTree = new HashSet<>();
+        readCSVFile(INPUT_FILE);
     }
 
     public static void readCSVFile(String filename) {
-
+        String line = "";
+        String splitBy = ",";
+        try {
+            BufferedReader br = new BufferedReader(new FileReader(filename));
+            String[] college;
+            while ((line = br.readLine()) != null) {
+                college = line.split(splitBy);
+                System.out.print("School location " + college[0] + ", School name " + college[1]);
+                if (college.length > 2){
+                    System.out.print(", Description " + college[2]);
+                }
+                System.out.println(" ");
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     public static void connectEdges() {
