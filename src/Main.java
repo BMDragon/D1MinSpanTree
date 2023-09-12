@@ -74,17 +74,22 @@ public class Main {
         File csvOutput = new File(saveFile);
         try {
             FileWriter fileWriter = new FileWriter(csvOutput);
+            fileWriter.write("WKT,name,description\n");
             String line = "";
-            for (Node node : nodes) {
-                for (Node edge : node.tree) {
-                    line = "\"LINESTRING (" + node.longitude + " " + node.latitude + ", " + edge.longitude + " "
-                            + edge.latitude + ")\"," + node.name + "-" + edge.name + ",\n";
-                }
-                fileWriter.write(line);
-            }
+            writeLine(fileWriter, line);
             fileWriter.close();
         } catch (IOException e) {
             e.printStackTrace();
+        }
+    }
+
+    private static void writeLine(FileWriter fileWriter, String line) throws IOException {
+        for (Node node : nodes) {
+            for (Node edge : node.tree) {
+                line = "\"LINESTRING (" + node.longitude + " " + node.latitude + ", " + edge.longitude + " "
+                        + edge.latitude + ")\"," + node.name + "-" + edge.name + ",\n";
+            }
+            fileWriter.write(line);
         }
     }
 }
