@@ -48,6 +48,7 @@ public class Main {
                 }
                 System.out.println(" ");
             }
+            br.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -73,12 +74,13 @@ public class Main {
         File csvOutput = new File(saveFile);
         try {
             FileWriter fileWriter = new FileWriter(csvOutput);
-            String line;
+            String line = "";
             for (Node node : nodes) {
                 for (Node edge : node.tree) {
                     line = "\"LINESTRING (" + node.longitude + " " + node.latitude + ", " + edge.longitude + " "
                             + edge.latitude + ")\"," + node.name + "-" + edge.name + ",\n";
                 }
+                fileWriter.write(line);
             }
             fileWriter.close();
         } catch (IOException e) {
