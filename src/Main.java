@@ -15,7 +15,7 @@ public class Main {
         HashMap<Node, Double> connections;
         HashSet<Node> tree;
 
-        public Node(double longitude, double latitude, String name){
+        public Node(double longitude, double latitude, String name) {
             this.longitude = longitude;
             this.latitude = latitude;
             this.name = name;
@@ -44,22 +44,36 @@ public class Main {
 
     private static void readCSVFile(String filename) {
         String line = "";
-        String splitBy = ",";
         try {
             BufferedReader br = new BufferedReader(new FileReader(filename));
-            String[] college;
             while ((line = br.readLine()) != null) {
-                college = line.split(splitBy);
-                System.out.print("School location " + college[0] + ", School name " + college[1]);
-                if (college.length > 2) {
-                    System.out.print(", Description " + college[2]);
-                }
-                System.out.println(" ");
+                makeNode(line);
             }
             br.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    private static void makeNode(String line) {
+        String splitBy = ",", coords, name;
+        String[] college;
+        int openDex, spaceDex, closedDex;
+        double ptLong, ptLat;
+        college = line.split(splitBy);
+        coords = college[0];
+        openDex = coords.indexOf('(');
+        coords = coords.substring(openDex + 1);
+        spaceDex = coords.indexOf(' ');
+        closedDex = coords.indexOf(')');
+        ptLong = Double.parseDouble(coords.substring(0, spaceDex));
+        ptLat = Double.parseDouble(coords.substring(spaceDex + 1, closedDex));
+
+        name = college[1];
+        if (college.length > 2) {
+            name = name + college[2];
+        }
+        nodes.add(new Node(ptLong, ptLat, name));
     }
 
     private static void connectEdges() {
