@@ -2,14 +2,18 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.TreeSet;
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 
 public class Main {
     class Node implements Comparable<Node> {
         double longitude;
         double latitude;
+        String name;
         HashMap<Node, Double> connections;
+        HashSet<Node> tree;
 
         @Override
         public int compareTo(Node other) {
@@ -19,6 +23,7 @@ public class Main {
 
     private static final int DEGREES_PER_RADIAN = 180;
     private static final String INPUT_FILE = "./resources/D1Schools.csv";
+    private static final String SAVE_FILE = "./resources/D1MinSpanTree.csv";
 
     private static TreeSet<Node> nodes;
     private static HashSet<Node> nodesInTree;
@@ -38,7 +43,7 @@ public class Main {
             while ((line = br.readLine()) != null) {
                 college = line.split(splitBy);
                 System.out.print("School location " + college[0] + ", School name " + college[1]);
-                if (college.length > 2){
+                if (college.length > 2) {
                     System.out.print(", Description " + college[2]);
                 }
                 System.out.println(" ");
@@ -64,7 +69,20 @@ public class Main {
         // Use Prim's algorithm
     }
 
-    public static void writeCSV() {
-
+    public static void writeCSV(String saveFile) {
+        File csvOutput = new File(saveFile);
+        try {
+            FileWriter fileWriter = new FileWriter(csvOutput);
+            String line;
+            for (Node node : nodes) {
+                for (Node edge : node.tree) {
+                    line = "\"LINESTRING (" + node.longitude + " " + node.latitude + ", " + edge.longitude + " "
+                            + edge.latitude + ")\"," + node.name + "-" + edge.name + ",\n";
+                }
+            }
+            fileWriter.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }
