@@ -8,12 +8,20 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class Main {
-    class Node implements Comparable<Node> {
+    static class Node implements Comparable<Node> {
         double longitude;
         double latitude;
         String name;
         HashMap<Node, Double> connections;
         HashSet<Node> tree;
+
+        public Node(double longitude, double latitude, String name){
+            this.longitude = longitude;
+            this.latitude = latitude;
+            this.name = name;
+            connections = new HashMap<>();
+            tree = new HashSet<>();
+        }
 
         @Override
         public int compareTo(Node other) {
