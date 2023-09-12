@@ -97,15 +97,15 @@ public class Main {
         try {
             FileWriter fileWriter = new FileWriter(csvOutput);
             fileWriter.write("WKT,name,description\n");
-            String line = "";
-            writeLine(fileWriter, line);
+            writeLines(fileWriter);
             fileWriter.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    private static void writeLine(FileWriter fileWriter, String line) throws IOException {
+    private static void writeLines(FileWriter fileWriter) throws IOException {
+        String line = "";
         for (Node node : nodes) {
             for (Node edge : node.tree) {
                 line = "\"LINESTRING (" + node.longitude + " " + node.latitude + ", " + edge.longitude + " "
