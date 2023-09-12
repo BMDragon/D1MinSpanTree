@@ -34,7 +34,7 @@ public class Main {
         readCSVFile(INPUT_FILE);
     }
 
-    public static void readCSVFile(String filename) {
+    private static void readCSVFile(String filename) {
         String line = "";
         String splitBy = ",";
         try {
@@ -54,23 +54,23 @@ public class Main {
         }
     }
 
-    public static void connectEdges() {
+    private static void connectEdges() {
         // Connect all nodes within certain longitude and latitude range
         // Connect Hawaii to all West Coast schools
     }
 
-    public static double greatCircleDistance(Node A, Node B) {
+    private static double greatCircleDistance(Node A, Node B) {
         double aLat = A.latitude / DEGREES_PER_RADIAN, bLat = B.latitude / DEGREES_PER_RADIAN;
         double aLong = A.longitude / DEGREES_PER_RADIAN, bLong = B.longitude / DEGREES_PER_RADIAN;
         return Math.acos(Math.cos(aLat) * Math.cos(bLat) * Math.cos(aLong - bLong) +
                 Math.sin(aLat) * Math.sin(bLat));
     }
 
-    public static void minimumSpanningTree() {
+    private static void minimumSpanningTree() {
         // Use Prim's algorithm
     }
 
-    public static void writeCSV(String saveFile) {
+    private static void writeCSV(String saveFile) {
         File csvOutput = new File(saveFile);
         try {
             FileWriter fileWriter = new FileWriter(csvOutput);
