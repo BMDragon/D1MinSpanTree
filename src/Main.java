@@ -80,27 +80,31 @@ public class Main {
     }
 
     private static void connectEdges() {
-        double hawaiiCutOff = -118, degreeDifference, distance;
-        int j;
-        Node current, connect;
+        double hawaiiCutOff = -118, degreeDifference;
+        Node current;
         for (int i = 0; i < nodes.size() - 1; i++) {
             degreeDifference = 10;
             current = nodes.get(i);
             if (i == 0) { // Hawaii
                 degreeDifference = hawaiiCutOff - current.longitude;
             }
-            j = i + 1;
+            connectNeighborNodes(degreeDifference, current, i);
+        }
+    }
+
+    private static void connectNeighborNodes(double degreeDifference, Node current, int currentDex) {
+        double distance;
+        int j = currentDex + 1;
+        Node connect = nodes.get(j);
+        while (connect.longitude <= current.longitude + degreeDifference && j < nodes.size()) {
             connect = nodes.get(j);
-            while (connect.longitude <= current.longitude + degreeDifference && j < nodes.size()) {
-                connect = nodes.get(j);
-                if (connect.latitude >= current.latitude - degreeDifference
-                        && connect.latitude <= current.latitude + degreeDifference) {
-                    distance = greatCircleDistance(current, connect);
-                    current.connections.put(connect, distance);
-                    connect.connections.put(current, distance);
-                }
-                j++;
+            if (connect.latitude >= current.latitude - degreeDifference
+                    && connect.latitude <= current.latitude + degreeDifference) {
+                distance = greatCircleDistance(current, connect);
+                current.connections.put(connect, distance);
+                connect.connections.put(current, distance);
             }
+            j++;
         }
     }
 
