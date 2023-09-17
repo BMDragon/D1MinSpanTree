@@ -1,6 +1,7 @@
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.TreeSet;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -33,13 +34,14 @@ public class Main {
     private static final String INPUT_FILE = "./resources/D1Schools.csv";
     private static final String SAVE_FILE = "./resources/D1MinSpanTree.csv";
 
-    private static TreeSet<Node> nodes;
+    private static ArrayList<Node> nodes;
     private static HashSet<Node> nodesInTree;
 
     public static void main(String[] args) {
-        nodes = new TreeSet<>();
+        nodes = new ArrayList<>();
         nodesInTree = new HashSet<>();
         readCSVFile(INPUT_FILE);
+        connectEdges();
     }
 
     private static void readCSVFile(String filename) {
@@ -50,6 +52,7 @@ public class Main {
                 makeNode(line);
             }
             br.close();
+            Collections.sort(nodes);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -77,8 +80,28 @@ public class Main {
     }
 
     private static void connectEdges() {
-        // Connect all nodes within certain longitude and latitude range
-        // Connect Hawaii to all West Coast schools
+        double hawaiiCutOff = -118, degreeDifference, distance;
+        int j;
+        Node current, connect;
+        for (int i = 0; i < nodes.size() - 1; i++) {
+            degreeDifference = 10;
+            current = nodes.get(i);
+            if (i == 0) { // Hawaii
+                degreeDifference = hawaiiCutOff - current.longitude;
+            }
+            j = i + 1;
+            connect = nodes.get(j);
+            while (connect.longitude <= current.longitude + degreeDifference && j < nodes.size()) {
+                connect = nodes.get(j);
+                if (connect.latitude >= current.latitude - degreeDifference
+                        && connect.latitude <= current.latitude + degreeDifference) {
+                    distance = greatCircleDistance(current, connect);
+                    current.connections.put(connect, distance);
+                    connect.connections.put(current, distance);
+                }
+                j++;
+            }
+        }
     }
 
     private static double greatCircleDistance(Node A, Node B) {
@@ -109,7 +132,7 @@ public class Main {
         for (Node node : nodes) {
             for (Node edge : node.tree) {
                 line = "\"LINESTRING (" + node.longitude + " " + node.latitude + ", " + edge.longitude + " "
-                        + edge.latitude + ")\"," + node.name + "-" + edge.name + ",\n";
+                        + edge.latitude + ")\"," + node.name + " & " + edge.name + ",\n";
             }
             fileWriter.write(line);
         }
