@@ -1,360 +1,360 @@
 WKT,name,description
-"LINESTRING (-157.8148228 21.299824, -122.4507187 37.7765643)",University of Hawaii at Manoa & University of San Francisco,
-"LINESTRING (-123.2794442 44.56378060000001, -122.6833385 45.51111529999999)",Oregon State University & Portland State University,
-"LINESTRING (-123.2794442 44.56378060000001, -123.0726055 44.0448302)",Oregon State University & University of Oregon,
-"LINESTRING (-122.7275712 45.5732046, -122.3178465 47.6091765)",University of Portland & Seattle University,
-"LINESTRING (-122.7275712 45.5732046, -122.6833385 45.51111529999999)",University of Portland & Portland State University,
-"LINESTRING (-122.4507187 37.7765643, -122.2594606 37.870151)",University of San Francisco & University of California Berkeley,
-"LINESTRING (-122.3178465 47.6091765, -122.3074579 47.65464069999999)",Seattle University & University of Washington,
-"LINESTRING (-122.3074579 47.65464069999999, -117.5847877 47.4906616)",University of Washington & Eastern Washington University,
-"LINESTRING (-122.2594606 37.870151, -122.1089374 37.8408837)",University of California Berkeley & Saint Mary's College of California,
-"LINESTRING (-122.17006 37.42766, -121.9367804 37.3489255)",Stanford University & Santa Clara University,
-"LINESTRING (-122.17006 37.42766, -122.1089374 37.8408837)",Stanford University & Saint Mary's College of California,
-"LINESTRING (-122.1089374 37.8408837, -121.7617125 38.5382322)",Saint Mary's College of California & University of California Davis,
-"LINESTRING (-121.9367804 37.3489255, -121.8810715 37.3351874)",Santa Clara University & San José State University,
-"LINESTRING (-121.7617125 38.5382322, -121.4276493 38.564761)",University of California Davis & California State University Sacramento,
-"LINESTRING (-121.4276493 38.564761, -121.3128577 37.97988689999999)",California State University Sacramento & University of the Pacific,
-"LINESTRING (-121.4276493 38.564761, -119.8141582 39.5437205)",California State University Sacramento & University of Nevada Reno,
-"LINESTRING (-121.3128577 37.97988689999999, -119.7461767 36.8136777)",University of the Pacific & California State University Fresno,
-"LINESTRING (-120.6624942 35.3050053, -119.848947 34.4139629)",California Polytechnic State University & University of California Santa Barbara,
-"LINESTRING (-119.848947 34.4139629, -118.709596 34.0415037)",University of California Santa Barbara & Pepperdine University,
-"LINESTRING (-119.848947 34.4139629, -119.1033448 35.3486641)",University of California Santa Barbara & California State University Bakersfield,
-"LINESTRING (-119.7461767 36.8136777, -119.1033448 35.3486641)",California State University Fresno & California State University Bakersfield,
-"LINESTRING (-118.709596 34.0415037, -118.4438495 34.0699182)",Pepperdine University & University of California Los Angeles,
-"LINESTRING (-118.5300196 34.2406756, -118.4438495 34.0699182)",California State University Northridge & University of California Los Angeles,
-"LINESTRING (-118.4438495 34.0699182, -118.4170134 33.97095410000001)",University of California Los Angeles & Loyola Marymount University,
-"LINESTRING (-118.4170134 33.97095410000001, -118.285117 34.0223519)",Loyola Marymount University & University of Southern California,
-"LINESTRING (-118.285117 34.0223519, -118.1140904 33.7838235)",University of Southern California & California State University Long Beach,
-"LINESTRING (-118.1140904 33.7838235, -117.8851033 33.8823476)",California State University Long Beach & California State University Fullerton,
-"LINESTRING (-117.8851033 33.8823476, -117.4259155 33.9288906)",California State University Fullerton & California Baptist University,
-"LINESTRING (-117.8851033 33.8823476, -117.8416747 33.6423814)",California State University Fullerton & University of California Irvine,
-"LINESTRING (-117.8416747 33.6423814, -117.2340135 32.8800604)",University of California Irvine & University of California San Diego,
-"LINESTRING (-117.5847877 47.4906616, -117.4021153 47.6658548)",Eastern Washington University & Gonzaga University,
-"LINESTRING (-117.5847877 47.4906616, -117.1542121 46.7319225)",Eastern Washington University & Washington State University,
-"LINESTRING (-117.4259155 33.9288906, -117.3280644 33.9737055)",California Baptist University & University of California Riverside,
-"LINESTRING (-117.3280644 33.9737055, -115.1435252 36.107496)",University of California Riverside & University of Nevada Las Vegas,
-"LINESTRING (-117.2340135 32.8800604, -117.1888625 32.7721681)",University of California San Diego & University of San Diego,
-"LINESTRING (-117.1888625 32.7721681, -117.0714068 32.7774047)",University of San Diego & San Diego State University,
-"LINESTRING (-117.1542121 46.7319225, -117.0126084 46.72881239999999)",Washington State University & University of Idaho,
-"LINESTRING (-117.0126084 46.72881239999999, -113.9845969 46.8619309)",University of Idaho & University of Montana,
-"LINESTRING (-117.0126084 46.72881239999999, -116.2009765 43.6023364)",University of Idaho & Boise State University,
-"LINESTRING (-115.1435252 36.107496, -113.56541 37.1028746)",University of Nevada Las Vegas & Utah Tech University,
-"LINESTRING (-113.9845969 46.8619309, -111.0546211 45.66735239999999)",University of Montana & Montana State University,
-"LINESTRING (-113.56541 37.1028746, -111.6540336 35.1802684)",Utah Tech University & Northern Arizona University,
-"LINESTRING (-113.56541 37.1028746, -113.0713001 37.6764461)",Utah Tech University & Southern Utah University,
-"LINESTRING (-113.0713001 37.6764461, -111.7153739 40.2787626)",Southern Utah University & Utah Valley University,
-"LINESTRING (-112.429762 42.8627836, -111.8097425 41.745161)",Idaho State University & Utah State University,
-"LINESTRING (-112.429762 42.8627836, -111.0546211 45.66735239999999)",Idaho State University & Montana State University,
-"LINESTRING (-112.1288588 33.5100339, -111.9264972 33.42316849999999)",Grand Canyon University & Arizona State University,
-"LINESTRING (-112.1288588 33.5100339, -111.6540336 35.1802684)",Grand Canyon University & Northern Arizona University,
-"LINESTRING (-111.9440252 41.1913021, -111.8421021 40.7649368)",Weber State University & The University of Utah,
-"LINESTRING (-111.9440252 41.1913021, -111.8097425 41.745161)",Weber State University & Utah State University,
-"LINESTRING (-111.9264972 33.42316849999999, -110.9501094 32.2318851)",Arizona State University & The University of Arizona,
-"LINESTRING (-111.8421021 40.7649368, -111.7153739 40.2787626)",The University of Utah & Utah Valley University,
-"LINESTRING (-111.7153739 40.2787626, -111.6493156 40.2518435)",Utah Valley University & Brigham Young University,
-"LINESTRING (-110.9501094 32.2318851, -106.7491391 32.27928869999999)",The University of Arizona & New Mexico State University,
-"LINESTRING (-106.7491391 32.27928869999999, -106.6197812 35.0843187)",New Mexico State University & The University of New Mexico,
-"LINESTRING (-106.7491391 32.27928869999999, -106.5047208 31.7731979)",New Mexico State University & The University of Texas at El Paso,
-"LINESTRING (-106.6197812 35.0843187, -101.8746483 33.5845522)",The University of New Mexico & Texas Tech University,
-"LINESTRING (-106.6197812 35.0843187, -104.8613176 38.9983094)",The University of New Mexico & United States Air Force Academy,
-"LINESTRING (-105.5665744 41.3148754, -105.0848391 40.5729432)",University of Wyoming & Colorado State University,
-"LINESTRING (-105.2659871 40.0073499, -104.9618965 39.6766174)",University of Colorado Boulder & University of Denver,
-"LINESTRING (-105.2659871 40.0073499, -105.0848391 40.5729432)",University of Colorado Boulder & Colorado State University,
-"LINESTRING (-105.0848391 40.5729432, -104.6944603 40.4062697)",Colorado State University & University of Northern Colorado,
-"LINESTRING (-104.9618965 39.6766174, -104.8613176 38.9983094)",University of Denver & United States Air Force Academy,
-"LINESTRING (-101.8746483 33.5845522, -99.7080103 32.4700922)",Texas Tech University & Abilene Christian University,
-"LINESTRING (-99.7080103 32.4700922, -98.215953 32.2160433)",Abilene Christian University & Tarleton State University,
-"LINESTRING (-98.61987789999999 29.5830733, -98.4676824 29.4675393)",The University of Texas at San Antonio & University of the Incarnate Word,
-"LINESTRING (-98.4676824 29.4675393, -97.938351 29.888411)",University of the Incarnate Word & Texas State University,
-"LINESTRING (-98.4676824 29.4675393, -97.32457389999999 27.7123121)",University of the Incarnate Word & Texas A&M University-Corpus Christi,
-"LINESTRING (-98.215953 32.2160433, -97.36280409999999 32.7078531)",Tarleton State University & Texas Christian University,
-"LINESTRING (-98.17401579999999 26.30819829999999, -97.32457389999999 27.7123121)",The University of Texas Rio Grande Valley & Texas A&M University-Corpus Christi,
-"LINESTRING (-97.938351 29.888411, -97.7340567 30.2849185)",Texas State University & The University of Texas at Austin,
-"LINESTRING (-97.7340567 30.2849185, -97.11354 31.5500848)",The University of Texas at Austin & Baylor University,
-"LINESTRING (-97.4448963 35.1987162, -97.07372219999999 36.12702360000001)",The University of Oklahoma & Oklahoma State University,
-"LINESTRING (-97.36280409999999 32.7078531, -97.11519709999999 32.7292117)",Texas Christian University & The University of Texas at Arlington,
-"LINESTRING (-97.28994209999999 37.7191442, -96.5847249 39.1974437)",Wichita State University & Kansas State University,
-"LINESTRING (-97.28994209999999 37.7191442, -97.07372219999999 36.12702360000001)",Wichita State University & Oklahoma State University,
-"LINESTRING (-97.1525862 33.207488, -97.11519709999999 32.7292117)",University of North Texas & The University of Texas at Arlington,
-"LINESTRING (-97.11519709999999 32.7292117, -96.78451749999999 32.8412178)",The University of Texas at Arlington & Southern Methodist University,
-"LINESTRING (-97.11519709999999 32.7292117, -97.11354 31.5500848)",The University of Texas at Arlington & Baylor University,
-"LINESTRING (-97.11354 31.5500848, -96.33646549999999 30.6186806)",Baylor University & Texas A&M University,
-"LINESTRING (-97.0768014 47.922891, -96.8024367 46.8977528)",University of North Dakota & North Dakota State University,
-"LINESTRING (-97.07372219999999 36.12702360000001, -95.9528284 36.05080929999999)",Oklahoma State University & Oral Roberts University,
-"LINESTRING (-96.92533809999999 42.7883015, -96.010696 41.2580268)",University of South Dakota & University of Nebraska Omaha,
-"LINESTRING (-96.92533809999999 42.7883015, -96.78351819999999 44.3191071)",University of South Dakota & South Dakota State University,
-"LINESTRING (-96.8024367 46.8977528, -96.78351819999999 44.3191071)",North Dakota State University & South Dakota State University,
-"LINESTRING (-96.78451749999999 32.8412178, -95.91041489999999 33.24066449999999)",Southern Methodist University & Texas A&M University-Commerce,
-"LINESTRING (-96.70047629999999 40.82019659999999, -96.5847249 39.1974437)",University of Nebraska-Lincoln & Kansas State University,
-"LINESTRING (-96.70047629999999 40.82019659999999, -96.010696 41.2580268)",University of Nebraska-Lincoln & University of Nebraska Omaha,
-"LINESTRING (-96.5847249 39.1974437, -95.2557961 38.95434389999999)",Kansas State University & University of Kansas,
-"LINESTRING (-96.33646549999999 30.6186806, -95.9907076 30.0954974)",Texas A&M University & Prairie View A&M University,
-"LINESTRING (-96.010696 41.2580268, -95.94638619999999 41.26555210000001)",University of Nebraska Omaha & Creighton University,
-"LINESTRING (-95.9907076 30.0954974, -95.51621569999999 29.6946466)",Prairie View A&M University & Houston Christian University,
-"LINESTRING (-95.9907076 30.0954974, -95.547276 30.7135813)",Prairie View A&M University & Sam Houston State University,
-"LINESTRING (-95.9528284 36.05080929999999, -95.94607529999999 36.1520526)",Oral Roberts University & The University of Tulsa,
-"LINESTRING (-95.94607529999999 36.1520526, -94.1748471 36.0686895)",The University of Tulsa & University of Arkansas,
-"LINESTRING (-95.547276 30.7135813, -94.64664379999999 31.6216141)",Sam Houston State University & Stephen F. Austin State University,
-"LINESTRING (-95.51621569999999 29.6946466, -95.40183119999999 29.7173941)",Houston Christian University & Rice University,
-"LINESTRING (-95.40183119999999 29.7173941, -95.35926909999999 29.7214214)",Rice University & Texas Southern University,
-"LINESTRING (-95.35926909999999 29.7214214, -95.3422334 29.7199489)",Texas Southern University & University of Houston,
-"LINESTRING (-95.3422334 29.7199489, -94.0747071 30.0392256)",University of Houston & Lamar University,
-"LINESTRING (-95.2557961 38.95434389999999, -94.58342739999999 39.0343551)",University of Kansas & University of Missouri-Kansas City,
-"LINESTRING (-94.1748471 36.0686895, -92.4578916 35.0780939)",University of Arkansas & University of Central Arkansas,
-"LINESTRING (-94.1748471 36.0686895, -93.2806806 37.20055459999999)",University of Arkansas & Missouri State University,
-"LINESTRING (-94.0747071 30.0392256, -93.2152198 30.1776851)",Lamar University & McNeese State University,
-"LINESTRING (-93.6546481 41.6030995, -93.64645159999999 42.0266573)",Drake University & Iowa State University,
-"LINESTRING (-93.64645159999999 42.0266573, -92.46464689999999 42.5121517)",Iowa State University & University of Northern Iowa,
-"LINESTRING (-93.2277285 44.97399, -93.1897082 44.943096)",University of Minnesota & University of St. Thomas,
-"LINESTRING (-93.2152198 30.1776851, -92.019914 30.211991)",McNeese State University & University of Louisiana at Lafayette,
-"LINESTRING (-93.1897082 44.943096, -92.46464689999999 42.5121517)",University of St. Thomas & University of Northern Iowa,
-"LINESTRING (-93.097876 31.7489726, -92.7179736 32.5197213)",Northwestern State University & Grambling State University,
-"LINESTRING (-92.7179736 32.5197213, -92.6522174 32.5299582)",Grambling State University & Louisiana Tech University,
-"LINESTRING (-92.6522174 32.5299582, -92.068744 32.5313471)",Louisiana Tech University & University of Louisiana Monroe,
-"LINESTRING (-92.46464689999999 42.5121517, -91.5549771 41.66270780000001)",University of Northern Iowa & The University of Iowa,
-"LINESTRING (-92.4578916 35.0780939, -92.3378705 34.7252717)",University of Central Arkansas & University of Arkansas at Little Rock,
-"LINESTRING (-92.3378705 34.7252717, -92.0217418 34.2473695)",University of Arkansas at Little Rock & University of Arkansas Pine Bluff,
-"LINESTRING (-92.32773750000001 38.94038079999999, -90.49747719999999 38.7859638)",University of Missouri & Lindenwood University,
-"LINESTRING (-92.068744 32.5313471, -91.1365733 31.8741511)",University of Louisiana Monroe & Alcorn State University,
-"LINESTRING (-92.068744 32.5313471, -92.0217418 34.2473695)",University of Louisiana Monroe & University of Arkansas Pine Bluff,
-"LINESTRING (-92.019914 30.211991, -91.1800023 30.4132579)",University of Louisiana at Lafayette & Louisiana State University,
-"LINESTRING (-91.5549771 41.66270780000001, -90.6837163 40.4674396)",The University of Iowa & Western Illinois University,
-"LINESTRING (-91.1929407 30.5265222, -91.1365733 31.8741511)",Southern University and A&M College & Alcorn State University,
-"LINESTRING (-91.1929407 30.5265222, -91.1800023 30.4132579)",Southern University and A&M College & Louisiana State University,
-"LINESTRING (-91.1800023 30.4132579, -90.4710715 30.5178932)",Louisiana State University & Southeastern Louisiana University,
-"LINESTRING (-91.1365733 31.8741511, -90.2063989 32.2968882)",Alcorn State University & Jackson State University,
-"LINESTRING (-90.8028911 29.7903032, -90.12031669999999 29.9407282)",Nicholls State University & Tulane University,
-"LINESTRING (-90.6837163 40.4674396, -89.6153484 40.6977743)",Western Illinois University & Bradley University,
-"LINESTRING (-90.67485889999999 35.8430861, -89.9374928 35.1187498)",Arkansas State University & University of Memphis,
-"LINESTRING (-90.49747719999999 38.7859638, -90.23364079999999 38.63482369999999)",Lindenwood University & Saint Louis University,
-"LINESTRING (-90.4710715 30.5178932, -90.0680105 30.0273134)",Southeastern Louisiana University & The University of New Orleans,
-"LINESTRING (-90.3416715 33.51269819999999, -90.2063989 32.2968882)",Mississippi Valley State University & Jackson State University,
-"LINESTRING (-90.3416715 33.51269819999999, -89.5383818 34.36473489999999)",Mississippi Valley State University & University of Mississippi,
-"LINESTRING (-90.23364079999999 38.63482369999999, -89.9996714 38.7951375)",Saint Louis University & Southern Illinois University Edwardsville,
-"LINESTRING (-90.2063989 32.2968882, -89.33345349999999 31.3298668)",Jackson State University & The University of Southern Mississippi,
-"LINESTRING (-90.12031669999999 29.9407282, -90.0680105 30.0273134)",Tulane University & The University of New Orleans,
-"LINESTRING (-89.9996714 38.7951375, -89.2229983 37.7079717)",Southern Illinois University Edwardsville & Southern Illinois University,
-"LINESTRING (-89.9374928 35.1187498, -89.5383818 34.36473489999999)",University of Memphis & University of Mississippi,
-"LINESTRING (-89.6153484 40.6977743, -88.99476299999999 40.5121009)",Bradley University & Illinois State University,
-"LINESTRING (-89.5383818 34.36473489999999, -88.79437659999999 33.45517419999999)",University of Mississippi & Mississippi State University,
-"LINESTRING (-89.52804379999999 37.3148783, -89.2229983 37.7079717)",Southeast Missouri State University & Southern Illinois University,
-"LINESTRING (-89.52804379999999 37.3148783, -88.86433319999999 36.3429724)",Southeast Missouri State University & University of Tennessee at Martin,
-"LINESTRING (-89.4124875 43.07659200000001, -88.7734365 41.935056)",University of Wisconsin-Madison & Northern Illinois University,
-"LINESTRING (-89.33345349999999 31.3298668, -88.184236 30.6959406)",The University of Southern Mississippi & University of South Alabama,
-"LINESTRING (-88.99476299999999 40.5121009, -88.2271615 40.1019523)",Illinois State University & University of Illinois Urbana-Champaign,
-"LINESTRING (-88.86433319999999 36.3429724, -88.3209372 36.616251)",University of Tennessee at Martin & Murray State University,
-"LINESTRING (-88.79437659999999 33.45517419999999, -87.5401002 33.2114385)",Mississippi State University & The University of Alabama,
-"LINESTRING (-88.7734365 41.935056, -87.67526699999999 42.05645939999999)",Northern Illinois University & Northwestern University,
-"LINESTRING (-88.3209372 36.616251, -87.3548855 36.53498)",Murray State University & Austin Peay State University,
-"LINESTRING (-88.2271615 40.1019523, -88.17521839999999 39.4835612)",University of Illinois Urbana-Champaign & Eastern Illinois University,
-"LINESTRING (-88.17521839999999 39.4835612, -87.40828069999999 39.4713985)",Eastern Illinois University & Indiana State University,
-"LINESTRING (-87.93101399999999 43.03869549999999, -87.67526699999999 42.05645939999999)",Marquette University & Northwestern University,
-"LINESTRING (-87.93101399999999 43.03869549999999, -87.8819686 43.07826299999999)",Marquette University & University of Wisconsin-Milwaukee,
-"LINESTRING (-87.9210482 44.5313196, -87.8819686 43.07826299999999)",University of Wisconsin-Green Bay & University of Wisconsin-Milwaukee,
-"LINESTRING (-87.6804676 34.807836, -86.5722237 34.78384090000001)",University of North Alabama & Alabama A&M University,
-"LINESTRING (-87.67526699999999 42.05645939999999, -87.65825919999999 41.9989483)",Northwestern University & Loyola University Chicago,
-"LINESTRING (-87.6727294 37.9634036, -87.5321724 37.9734113)",University of Southern Indiana & University of Evansville,
-"LINESTRING (-87.65825919999999 41.9989483, -87.65416549999999 41.92418680000001)",Loyola University Chicago & DePaul University,
-"LINESTRING (-87.65416549999999 41.92418680000001, -87.60943879999999 41.7179751)",DePaul University & Chicago State University,
-"LINESTRING (-87.60943879999999 41.7179751, -87.04388929999999 41.4639394)",Chicago State University & Valparaiso University,
-"LINESTRING (-87.5401002 33.2114385, -86.80574949999999 33.5020323)",The University of Alabama & University of Alabama at Birmingham,
-"LINESTRING (-87.5321724 37.9734113, -86.456 36.9847167)",University of Evansville & Western Kentucky University,
-"LINESTRING (-87.40828069999999 39.4713985, -86.52300729999999 39.1682449)",Indiana State University & Indiana University Bloomington,
-"LINESTRING (-87.3548855 36.53498, -86.8258566 36.1683703)",Austin Peay State University & Tennessee State University,
-"LINESTRING (-87.04388929999999 41.4639394, -86.2355439 41.7050504)",Valparaiso University & University of Notre Dame,
-"LINESTRING (-87.04388929999999 41.4639394, -86.92119459999999 40.4237054)",Valparaiso University & Purdue University,
-"LINESTRING (-86.92119459999999 40.4237054, -86.1712038 39.8410384)",Purdue University & Butler University,
-"LINESTRING (-86.8258566 36.1683703, -86.456 36.9847167)",Tennessee State University & Western Kentucky University,
-"LINESTRING (-86.8258566 36.1683703, -86.8026551 36.14470339999999)",Tennessee State University & Vanderbilt University,
-"LINESTRING (-86.80574949999999 33.5020323, -86.7913423 33.4649218)",University of Alabama at Birmingham & Samford University,
-"LINESTRING (-86.8026551 36.14470339999999, -86.7941702 36.1329081)",Vanderbilt University & Belmont University,
-"LINESTRING (-86.7988728 36.1046431, -86.7941702 36.1329081)",Lipscomb University & Belmont University,
-"LINESTRING (-86.7988728 36.1046431, -86.36691549999999 35.8486229)",Lipscomb University & Middle Tennessee State University,
-"LINESTRING (-86.7913423 33.4649218, -86.2939803 32.3629762)",Samford University & Alabama State University,
-"LINESTRING (-86.7913423 33.4649218, -85.7681921 33.82309530000001)",Samford University & Jacksonville State University,
-"LINESTRING (-86.5722237 34.78384090000001, -86.36691549999999 35.8486229)",Alabama A&M University & Middle Tennessee State University,
-"LINESTRING (-86.52300729999999 39.1682449, -86.17626059999999 39.773929)",Indiana University Bloomington & IUPUI,
-"LINESTRING (-86.456 36.9847167, -85.75850229999999 38.2122761)",Western Kentucky University & University of Louisville,
-"LINESTRING (-86.36691549999999 35.8486229, -85.50910859999999 36.1763138)",Middle Tennessee State University & Tennessee Tech University,
-"LINESTRING (-86.2939803 32.3629762, -85.4942667 32.59805490000001)",Alabama State University & Auburn University,
-"LINESTRING (-86.2939803 32.3629762, -85.9571615 31.80259259999999)",Alabama State University & Troy University,
-"LINESTRING (-86.2355439 41.7050504, -85.6102506 42.2837337)",University of Notre Dame & Western Michigan University,
-"LINESTRING (-86.17626059999999 39.773929, -86.1712038 39.8410384)",IUPUI & Butler University,
-"LINESTRING (-86.1712038 39.8410384, -85.40582409999999 40.2024944)",Butler University & Ball State University,
-"LINESTRING (-85.7681921 33.82309530000001, -84.5815717 34.03807839999999)",Jacksonville State University & Kennesaw State University,
-"LINESTRING (-85.75850229999999 38.2122761, -85.7055271 38.21849390000001)",University of Louisville & Bellarmine University,
-"LINESTRING (-85.7055271 38.21849390000001, -84.5039697 38.0306511)",Bellarmine University & University of Kentucky,
-"LINESTRING (-85.6102506 42.2837337, -84.4815364 42.72965930000001)",Western Michigan University & Michigan State University,
-"LINESTRING (-85.50910859999999 36.1763138, -85.2953072 35.0458509)",Tennessee Tech University & The University of Tennessee at Chattanooga,
-"LINESTRING (-85.40582409999999 40.2024944, -84.73449149999999 39.5087485)",Ball State University & Miami University,
-"LINESTRING (-85.40582409999999 40.2024944, -85.1059405 41.1184535)",Ball State University & Purdue University Fort Wayne,
-"LINESTRING (-85.2953072 35.0458509, -84.5815717 34.03807839999999)",The University of Tennessee at Chattanooga & Kennesaw State University,
-"LINESTRING (-84.77586389999999 43.5905995, -84.4815364 42.72965930000001)",Central Michigan University & Michigan State University,
-"LINESTRING (-84.73449149999999 39.5087485, -84.51495039999999 39.13292189999999)",Miami University & University of Cincinnati,
-"LINESTRING (-84.73449149999999 39.5087485, -84.17904449999999 39.7401454)",Miami University & University of Dayton,
-"LINESTRING (-84.5815717 34.03807839999999, -84.39628499999999 33.77561779999999)",Kennesaw State University & Georgia Institute of Technology,
-"LINESTRING (-84.51495039999999 39.13292189999999, -84.47406869999999 39.1498065)",University of Cincinnati & Xavier University,
-"LINESTRING (-84.51495039999999 39.13292189999999, -84.4625345 39.03120349999999)",University of Cincinnati & Northern Kentucky University,
-"LINESTRING (-84.5039697 38.0306511, -84.4625345 39.03120349999999)",University of Kentucky & Northern Kentucky University,
-"LINESTRING (-84.5039697 38.0306511, -84.2987483 37.7359731)",University of Kentucky & Eastern Kentucky University,
-"LINESTRING (-84.4815364 42.72965930000001, -83.7382071 42.277145)",Michigan State University & University of Michigan,
-"LINESTRING (-84.39628499999999 33.77561779999999, -84.38528190000001 33.75306799999999)",Georgia Institute of Technology & Georgia State University,
-"LINESTRING (-84.38528190000001 33.75306799999999, -83.375192 33.95666559999999)",Georgia State University & University of Georgia,
-"LINESTRING (-84.2987483 37.7359731, -83.4310035 38.18943)",Eastern Kentucky University & Morehead State University,
-"LINESTRING (-84.2984889 30.4418778, -84.2877093 30.4227211)",Florida State University & Florida A&M University,
-"LINESTRING (-84.2877093 30.4227211, -82.35348400000001 29.644591)",Florida A&M University & University of Florida,
-"LINESTRING (-84.17904449999999 39.7401454, -84.06510779999999 39.77985419999999)",University of Dayton & Wright State University,
-"LINESTRING (-84.06510779999999 39.77985419999999, -83.0304546 40.0066723)",Wright State University & Ohio State University,
-"LINESTRING (-83.92945639999999 35.9544013, -83.1863612 35.3090108)",University of Tennessee & Western Carolina University,
-"LINESTRING (-83.7382071 42.277145, -83.624089 42.25068029999999)",University of Michigan & Eastern Michigan University,
-"LINESTRING (-83.64969909999999 32.8284878, -83.375192 33.95666559999999)",Mercer University & University of Georgia,
-"LINESTRING (-83.63009749999999 41.3798424, -83.6142374 41.6578804)",Bowling Green State University & The University of Toledo,
-"LINESTRING (-83.624089 42.25068029999999, -83.1379388 42.4140847)",Eastern Michigan University & University of Detroit Mercy,
-"LINESTRING (-83.624089 42.25068029999999, -83.6142374 41.6578804)",Eastern Michigan University & The University of Toledo,
-"LINESTRING (-83.4310035 38.18943, -82.42471979999999 38.4236597)",Morehead State University & Marshall University,
-"LINESTRING (-83.375192 33.95666559999999, -82.8367119 34.673407)",University of Georgia & Clemson University,
-"LINESTRING (-83.20823469999999 42.6678782, -83.1379388 42.4140847)",Oakland University & University of Detroit Mercy,
-"LINESTRING (-83.1863612 35.3090108, -82.5665332 35.6170787)",Western Carolina University & University of North Carolina Asheville,
-"LINESTRING (-82.8367119 34.673407, -82.4400679 34.92747409999999)",Clemson University & Furman University,
-"LINESTRING (-82.5665332 35.6170787, -82.36985299999999 36.30239539999999)",University of North Carolina Asheville & East Tennessee State University,
-"LINESTRING (-82.5665332 35.6170787, -82.4400679 34.92747409999999)",University of North Carolina Asheville & Furman University,
-"LINESTRING (-82.4400679 34.92747409999999, -81.9711555 34.9996102)",Furman University & University of South Carolina Upstate,
-"LINESTRING (-82.42471979999999 38.4236597, -82.10138889999999 39.32435799999999)",Marshall University & Ohio University,
-"LINESTRING (-82.41385389999999 28.0587031, -81.2000599 28.6024274)",University of South Florida & University of Central Florida,
-"LINESTRING (-82.41385389999999 28.0587031, -81.7800748 26.4626967)",University of South Florida & Florida Gulf Coast University,
-"LINESTRING (-82.36985299999999 36.30239539999999, -81.68432179999999 36.21356280000001)",East Tennessee State University & Appalachian State University,
-"LINESTRING (-82.35348400000001 29.644591, -81.6035285 30.3516278)",University of Florida & Jacksonville University,
-"LINESTRING (-81.9711555 34.9996102, -81.9351358 34.9590202)",University of South Carolina Upstate & Wofford College,
-"LINESTRING (-81.9711555 34.9996102, -81.6706979 35.2475249)",University of South Carolina Upstate & Gardner-Webb University,
-"LINESTRING (-81.9351358 34.9590202, -81.87755899999999 34.465182)",Wofford College & Presbyterian College,
-"LINESTRING (-81.7842919 32.4196512, -80.8492832 33.4981687)",Georgia Southern University & South Carolina State University,
-"LINESTRING (-81.7842919 32.4196512, -81.6035285 30.3516278)",Georgia Southern University & Jacksonville University,
-"LINESTRING (-81.7800748 26.4626967, -80.3755401 25.7562465)",Florida Gulf Coast University & Florida International University,
-"LINESTRING (-81.67442299999999 41.5027643, -81.50975439999999 41.0716551)",Cleveland State University & University of Akron,
-"LINESTRING (-81.6706979 35.2475249, -81.03199699999999 34.9394013)",Gardner-Webb University & Winthrop University,
-"LINESTRING (-81.6035285 30.3516278, -81.50723140000001 30.2661204)",Jacksonville University & University of North Florida,
-"LINESTRING (-81.50975439999999 41.0716551, -81.34331590000001 41.1497945)",University of Akron & Kent State University,
-"LINESTRING (-81.50723140000001 30.2661204, -81.03157399999999 29.2110122)",University of North Florida & Bethune-Cookman University,
-"LINESTRING (-81.34331590000001 41.1497945, -80.6480952 41.10664130000001)",Kent State University & Youngstown State University,
-"LINESTRING (-81.3009245 29.0335139, -81.2000599 28.6024274)",Stetson University & University of Central Florida,
-"LINESTRING (-81.3009245 29.0335139, -81.03157399999999 29.2110122)",Stetson University & Bethune-Cookman University,
-"LINESTRING (-81.03199699999999 34.9394013, -80.83297240000002 35.18862599999999)",Winthrop University & Queens University of Charlotte,
-"LINESTRING (-81.03199699999999 34.9394013, -81.0299186 33.9937575)",Winthrop University & University of South Carolina,
-"LINESTRING (-81.0299186 33.9937575, -80.8492832 33.4981687)",University of South Carolina & South Carolina State University,
-"LINESTRING (-80.8492832 33.4981687, -80.07065539999999 32.9821829)",South Carolina State University & Charleston Southern University,
-"LINESTRING (-80.8423248 35.5015528, -80.2792887 36.1354887)",Davidson College & Wake Forest University,
-"LINESTRING (-80.8423248 35.5015528, -80.735164 35.30709289999999)",Davidson College & University of North Carolina at Charlotte,
-"LINESTRING (-80.83297240000002 35.18862599999999, -80.735164 35.30709289999999)",Queens University of Charlotte & University of North Carolina at Charlotte,
-"LINESTRING (-80.6480952 41.10664130000001, -80.2127179 40.5213461)",Youngstown State University & Robert Morris University,
-"LINESTRING (-80.5502298 37.1374838, -80.2792887 36.1354887)",Radford University & Wake Forest University,
-"LINESTRING (-80.5502298 37.1374838, -79.4351978 37.7909313)",Radford University & Virginia Military Institute,
-"LINESTRING (-80.3755401 25.7562465, -80.10190229999999 26.37374729999999)",Florida International University & Florida Atlantic University,
-"LINESTRING (-80.3755401 25.7562465, -80.2781262 25.7173947)",Florida International University & University of Miami,
-"LINESTRING (-80.2792887 36.1354887, -79.9976255 35.97653809999999)",Wake Forest University & High Point University,
-"LINESTRING (-80.2127179 40.5213461, -79.99025759999999 40.4369485)",Robert Morris University & Duquesne University,
-"LINESTRING (-80.07065539999999 32.9821829, -79.9596641 32.7973082)",Charleston Southern University & The Citadel,
-"LINESTRING (-80.07065539999999 32.9821829, -79.0136958 33.79611939999999)",Charleston Southern University & Coastal Carolina University,
-"LINESTRING (-79.9976255 35.97653809999999, -79.8101976 36.0689296)",High Point University & University of North Carolina Greensboro,
-"LINESTRING (-79.99025759999999 40.4369485, -79.9605375 40.44402789999999)",Duquesne University & University of Pittsburgh,
-"LINESTRING (-79.99025759999999 40.4369485, -79.9697147 39.6480359)",Duquesne University & West Virginia University,
-"LINESTRING (-79.9605375 40.44402789999999, -78.6376191 40.50382)",University of Pittsburgh & Saint Francis University,
-"LINESTRING (-79.9596641 32.7973082, -79.93700179999999 32.7834441)",The Citadel & College of Charleston,
-"LINESTRING (-79.8101976 36.0689296, -79.77292419999999 36.0806927)",University of North Carolina Greensboro & North Carolina A&T State University,
-"LINESTRING (-79.77292419999999 36.0806927, -79.5023649 36.1028244)",North Carolina A&T State University & Elon University,
-"LINESTRING (-79.5023649 36.1028244, -79.0469134 35.9049122)",Elon University & University of North Carolina at Chapel Hill,
-"LINESTRING (-79.4351978 37.7909313, -79.17841229999999 37.3492244)",Virginia Military Institute & Liberty University,
-"LINESTRING (-79.17841229999999 37.3492244, -78.3961973 37.29717979999999)",Liberty University & Longwood University,
-"LINESTRING (-79.0469134 35.9049122, -78.9382286 36.0014258)",University of North Carolina at Chapel Hill & Duke University,
-"LINESTRING (-79.0349955 43.1369816, -78.7889697 43.0008093)",Niagara University & University at Buffalo,
-"LINESTRING (-79.0136958 33.79611939999999, -77.8696036 34.22387399999999)",Coastal Carolina University & University of North Carolina Wilmington,
-"LINESTRING (-78.9382286 36.0014258, -78.899654 35.97524869999999)",Duke University & North Carolina Central University,
-"LINESTRING (-78.899654 35.97524869999999, -78.6812824 35.7850744)",North Carolina Central University & North Carolina State University,
-"LINESTRING (-78.8697548 38.435092, -78.5079772 38.0335529)",James Madison University & University of Virginia,
-"LINESTRING (-78.8550954 42.9237929, -78.7889697 43.0008093)",Canisius University & University at Buffalo,
-"LINESTRING (-78.8550954 42.9237929, -78.4829439 42.07857680000001)",Canisius University & St. Bonaventure University,
-"LINESTRING (-78.7397718 35.408157, -78.6812824 35.7850744)",Campbell University & North Carolina State University,
-"LINESTRING (-78.6812824 35.7850744, -77.3665364 35.6068806)",North Carolina State University & East Carolina University,
-"LINESTRING (-78.6376191 40.50382, -77.8599084 40.7982133)",Saint Francis University & The Pennsylvania State University,
-"LINESTRING (-78.5079772 38.0335529, -78.3961973 37.29717979999999)",University of Virginia & Longwood University,
-"LINESTRING (-78.4829439 42.07857680000001, -77.8599084 40.7982133)",St. Bonaventure University & The Pennsylvania State University,
-"LINESTRING (-78.3961973 37.29717979999999, -77.5397192 37.5758243)",Longwood University & University of Richmond,
-"LINESTRING (-77.8599084 40.7982133, -77.3486971 39.6799914)",The Pennsylvania State University & Mount St. Mary's University,
-"LINESTRING (-77.8599084 40.7982133, -76.88507589999999 40.9547722)",The Pennsylvania State University & Bucknell University,
-"LINESTRING (-77.5397192 37.5758243, -77.31174709999999 38.8314578)",University of Richmond & George Mason University,
-"LINESTRING (-77.5397192 37.5758243, -77.4527359 37.5526695)",University of Richmond & Virginia Commonwealth University,
-"LINESTRING (-77.4527359 37.5526695, -76.7091042 37.2694402)",Virginia Commonwealth University & William and Mary College,
-"LINESTRING (-77.3486971 39.6799914, -76.7106829 39.2553955)",Mount St. Mary's University & University of Maryland Baltimore County,
-"LINESTRING (-77.31174709999999 38.8314578, -77.088922 38.9380155)",George Mason University & American University,
-"LINESTRING (-77.088922 38.9380155, -77.07225849999999 38.9076089)",American University & Georgetown University,
-"LINESTRING (-77.07225849999999 38.9076089, -77.0470916 38.8991756)",Georgetown University & George Washington University,
-"LINESTRING (-77.0470916 38.8991756, -77.0194377 38.9226843)",George Washington University & Howard University,
-"LINESTRING (-77.0194377 38.9226843, -76.9425543 38.9869183)",Howard University & University of Maryland,
-"LINESTRING (-76.9425543 38.9869183, -76.7106829 39.2553955)",University of Maryland & University of Maryland Baltimore County,
-"LINESTRING (-76.88507589999999 40.9547722, -75.9694885 42.0894288)",Bucknell University & Binghamton University,
-"LINESTRING (-76.7106829 39.2553955, -76.65799729999999 39.31260109999999)",University of Maryland Baltimore County & Coppin State University,
-"LINESTRING (-76.7106829 39.2553955, -76.4839405 38.98206580000001)",University of Maryland Baltimore County & United States Naval Academy,
-"LINESTRING (-76.7091042 37.2694402, -76.3343603 37.02283919999999)",William and Mary College & Hampton University,
-"LINESTRING (-76.65799729999999 39.31260109999999, -76.6172375 39.3476737)",Coppin State University & Loyola University Maryland,
-"LINESTRING (-76.6172375 39.3476737, -76.5843847 39.3437959)",Loyola University Maryland & Morgan State University,
-"LINESTRING (-76.6172375 39.3476737, -76.61263919999999 39.39251209999999)",Loyola University Maryland & Towson University,
-"LINESTRING (-76.5843847 39.3437959, -75.7506114 39.6779504)",Morgan State University & University of Delaware,
-"LINESTRING (-76.4735027 42.4534492, -76.1336922 43.03865020000001)",Cornell University & Syracuse University,
-"LINESTRING (-76.4735027 42.4534492, -75.9694885 42.0894288)",Cornell University & Binghamton University,
-"LINESTRING (-76.3343603 37.02283919999999, -76.3058786 36.8853217)",Hampton University & Old Dominion University,
-"LINESTRING (-76.3058786 36.8853217, -76.2620987 36.8479292)",Old Dominion University & Norfolk State University,
-"LINESTRING (-76.1336922 43.03865020000001, -75.5407355 42.8155894)",Syracuse University & Colgate University,
-"LINESTRING (-75.7506114 39.6779504, -75.3425785 40.0368926)",University of Delaware & Villanova University,
-"LINESTRING (-75.7506114 39.6779504, -75.54340309999999 39.1852205)",University of Delaware & Delaware State University,
-"LINESTRING (-75.6848002 38.2102166, -75.54340309999999 39.1852205)",University of Maryland Eastern Shore & Delaware State University,
-"LINESTRING (-75.3775187 40.6048687, -75.2101079 40.69847129999999)",Lehigh University & Lafayette College,
-"LINESTRING (-75.3775187 40.6048687, -75.3425785 40.0368926)",Lehigh University & Villanova University,
-"LINESTRING (-75.3425785 40.0368926, -75.2061581 39.9657716)",Villanova University & Saint Joseph's University,
-"LINESTRING (-75.2061581 39.9657716, -75.18994409999999 39.95661269999999)",Saint Joseph's University & Drexel University,
-"LINESTRING (-75.1932137 39.9522188, -75.18994409999999 39.95661269999999)",University of Pennsylvania & Drexel University,
-"LINESTRING (-75.18994409999999 39.95661269999999, -75.1553563 39.9811911)",Drexel University & Temple University,
-"LINESTRING (-75.1558184 40.0390398, -74.7407633 40.2811583)",La Salle University & Rider University,
-"LINESTRING (-75.1558184 40.0390398, -75.1553563 39.9811911)",La Salle University & Temple University,
-"LINESTRING (-74.7407633 40.2811583, -74.65507389999999 40.3430942)",Rider University & Princeton University,
-"LINESTRING (-74.65507389999999 40.3430942, -74.246082 40.7430841)",Princeton University & Seton Hall University,
-"LINESTRING (-74.246082 40.7430841, -74.1793225 40.74234619999999)",Seton Hall University & New Jersey Institute of Technology,
-"LINESTRING (-74.1793225 40.74234619999999, -74.17418909999999 40.7416983)",New Jersey Institute of Technology & Rutgers University,
-"LINESTRING (-74.17418909999999 40.7416983, -74.07003259999999 40.72694920000001)",Rutgers University & Saint Peter's University,
-"LINESTRING (-74.09438229999999 40.6149557, -74.07003259999999 40.72694920000001)",Wagner College & Saint Peter's University,
-"LINESTRING (-74.09438229999999 40.6149557, -74.0054114 40.28027579999999)",Wagner College & Monmouth University,
-"LINESTRING (-74.07003259999999 40.72694920000001, -73.98654619999999 40.69011359999999)",Saint Peter's University & St. Francis College,
-"LINESTRING (-74.0303046 40.898241, -73.9625727 40.8075355)",Fairleigh Dickinson University & Columbia University,
-"LINESTRING (-73.98654619999999 40.69011359999999, -73.9805528 40.691145)",St. Francis College & Long Island University Brooklyn,
-"LINESTRING (-73.9805528 40.691145, -73.9625727 40.8075355)",Long Island University Brooklyn & Columbia University,
-"LINESTRING (-73.9625727 40.8075355, -73.8852771 40.8614567)",Columbia University & Fordham University,
-"LINESTRING (-73.95710729999999 41.3889095, -73.78634939999999 40.9270597)",United States Military Academy & Iona University,
-"LINESTRING (-73.95710729999999 41.3889095, -73.9344876 41.7231052)",United States Military Academy & Marist College,
-"LINESTRING (-73.9344876 41.7231052, -73.8247903 42.6850273)",Marist College & University at Albany,
-"LINESTRING (-73.9011239 40.8900515, -73.8852771 40.8614567)",Manhattan College & Fordham University,
-"LINESTRING (-73.8852771 40.8614567, -73.78634939999999 40.9270597)",Fordham University & Iona University,
-"LINESTRING (-73.8852771 40.8614567, -73.7947689 40.72159789999999)",Fordham University & St John's University,
-"LINESTRING (-73.8247903 42.6850273, -73.7513323 42.71894959999999)",University at Albany & Siena College,
-"LINESTRING (-73.7947689 40.72159789999999, -73.5993965 40.7166872)",St John's University & Hofstra University,
-"LINESTRING (-73.5993965 40.7166872, -73.1204032 40.908119)",Hofstra University & Stony Brook University,
-"LINESTRING (-73.2575513 41.1598949, -73.1204032 40.908119)",Fairfield University & Stony Brook University,
-"LINESTRING (-73.2575513 41.1598949, -73.24239469999999 41.220562)",Fairfield University & Sacred Heart University,
-"LINESTRING (-73.24239469999999 41.220562, -72.92234309999999 41.3163244)",Sacred Heart University & Yale University,
-"LINESTRING (-73.1964637 44.4778528, -72.2886934 43.70444059999999)",University of Vermont & Dartmouth College,
-"LINESTRING (-72.92234309999999 41.3163244, -72.89364929999999 41.4189262)",Yale University & Quinnipiac University,
-"LINESTRING (-72.89364929999999 41.4189262, -72.7638508 41.6931245)",Quinnipiac University & Central Connecticut State University,
-"LINESTRING (-72.7638508 41.6931245, -72.2539805 41.8077414)",Central Connecticut State University & University of Connecticut,
-"LINESTRING (-72.5300515 42.3867598, -72.2539805 41.8077414)",University of Massachusetts Amherst & University of Connecticut,
-"LINESTRING (-72.5300515 42.3867598, -72.2886934 43.70444059999999)",University of Massachusetts Amherst & Dartmouth College,
-"LINESTRING (-72.2539805 41.8077414, -71.8079608 42.2392391)",University of Connecticut & College of the Holy Cross,
-"LINESTRING (-71.8079608 42.2392391, -71.53772649999999 41.9220919)",College of the Holy Cross & Bryant University,
-"LINESTRING (-71.53772649999999 41.9220919, -71.4347475 41.8440047)",Bryant University & Providence College,
-"LINESTRING (-71.53067879999999 41.4862328, -71.4025482 41.82677179999999)",University of Rhode Island & Brown University,
-"LINESTRING (-71.4347475 41.8440047, -71.4025482 41.82677179999999)",Providence College & Brown University,
-"LINESTRING (-71.4025482 41.82677179999999, -71.08091300000001 42.05810530000001)",Brown University & Stonehill College,
-"LINESTRING (-71.3247164 42.6552587, -71.1234527 42.6673814)",University of Massachusetts Lowell & Merrimack College,
-"LINESTRING (-71.16849450000001 42.3355488, -71.1182488 42.3744368)",Boston College & Harvard University,
-"LINESTRING (-71.1234527 42.6673814, -70.92890539999999 43.1373391)",Merrimack College & University of New Hampshire,
-"LINESTRING (-71.1234527 42.6673814, -71.1182488 42.3744368)",Merrimack College & Harvard University,
-"LINESTRING (-71.1182488 42.3744368, -71.1053991 42.3504997)",Harvard University & Boston University,
-"LINESTRING (-71.1053991 42.3504997, -71.0898892 42.339904)",Boston University & Northeastern University,
-"LINESTRING (-71.0898892 42.339904, -71.08091300000001 42.05810530000001)",Northeastern University & Stonehill College,
-"LINESTRING (-70.92890539999999 43.1373391, -68.66882509999999 44.901867)",University of New Hampshire & University of Maine,
+"LINESTRING (-157.8148228 21.299824, -122.4507187 37.7765643)",University of Hawaii at Manoa & University of San Francisco,2391.191839903676 mi
+"LINESTRING (-123.2794442 44.56378060000001, -122.6833385 45.51111529999999)",Oregon State University & Portland State University,71.63377636259088 mi
+"LINESTRING (-123.2794442 44.56378060000001, -123.0726055 44.0448302)",Oregon State University & University of Oregon,37.28645825184872 mi
+"LINESTRING (-122.7275712 45.5732046, -122.3178465 47.6091765)",University of Portland & Seattle University,142.01185618102355 mi
+"LINESTRING (-122.7275712 45.5732046, -122.6833385 45.51111529999999)",University of Portland & Portland State University,4.794370509858135 mi
+"LINESTRING (-122.4507187 37.7765643, -122.2594606 37.870151)",University of San Francisco & University of California Berkeley,12.279000203319864 mi
+"LINESTRING (-122.4507187 37.7765643, -122.17006 37.42766)",University of San Francisco & Stanford University,28.5866106628551 mi
+"LINESTRING (-122.3178465 47.6091765, -122.3074579 47.65464069999999)",Seattle University & University of Washington,3.178331687051153 mi
+"LINESTRING (-122.3074579 47.65464069999999, -117.5847877 47.4906616)",University of Washington & Eastern Washington University,220.40277374497072 mi
+"LINESTRING (-122.2594606 37.870151, -122.1089374 37.8408837)",University of California Berkeley & Saint Mary's College of California,8.456967771053435 mi
+"LINESTRING (-122.17006 37.42766, -121.9367804 37.3489255)",Stanford University & Santa Clara University,13.914114819370514 mi
+"LINESTRING (-122.1089374 37.8408837, -121.3128577 37.97988689999999)",Saint Mary's College of California & University of the Pacific,44.44689061937035 mi
+"LINESTRING (-121.9367804 37.3489255, -121.8810715 37.3351874)",Santa Clara University & San José State University,3.2040248412169725 mi
+"LINESTRING (-121.7617125 38.5382322, -121.4276493 38.564761)",University of California Davis & California State University Sacramento,18.143894215220417 mi
+"LINESTRING (-121.4276493 38.564761, -121.3128577 37.97988689999999)",California State University Sacramento & University of the Pacific,40.88824469672525 mi
+"LINESTRING (-121.4276493 38.564761, -119.8141582 39.5437205)",California State University Sacramento & University of Nevada Reno,109.85974722872692 mi
+"LINESTRING (-121.3128577 37.97988689999999, -119.7461767 36.8136777)",University of the Pacific & California State University Fresno,117.84562450598878 mi
+"LINESTRING (-120.6624942 35.3050053, -119.848947 34.4139629)",California Polytechnic State University & University of California Santa Barbara,76.92658801522245 mi
+"LINESTRING (-119.848947 34.4139629, -118.709596 34.0415037)",University of California Santa Barbara & Pepperdine University,69.99065387322212 mi
+"LINESTRING (-119.848947 34.4139629, -119.1033448 35.3486641)",University of California Santa Barbara & California State University Bakersfield,77.18015132247628 mi
+"LINESTRING (-119.7461767 36.8136777, -119.1033448 35.3486641)",California State University Fresno & California State University Bakersfield,107.39927710796704 mi
+"LINESTRING (-118.709596 34.0415037, -118.4438495 34.0699182)",Pepperdine University & University of California Los Angeles,15.338553868900544 mi
+"LINESTRING (-118.5300196 34.2406756, -118.4438495 34.0699182)",California State University Northridge & University of California Los Angeles,12.785735384789433 mi
+"LINESTRING (-118.4438495 34.0699182, -118.4170134 33.97095410000001)",University of California Los Angeles & Loyola Marymount University,7.008414680736445 mi
+"LINESTRING (-118.4170134 33.97095410000001, -118.285117 34.0223519)",Loyola Marymount University & University of Southern California,8.34851523341217 mi
+"LINESTRING (-118.285117 34.0223519, -118.1140904 33.7838235)",University of Southern California & California State University Long Beach,19.178466334217863 mi
+"LINESTRING (-118.1140904 33.7838235, -117.8851033 33.8823476)",California State University Long Beach & California State University Fullerton,14.800857830982693 mi
+"LINESTRING (-117.8851033 33.8823476, -117.4259155 33.9288906)",California State University Fullerton & California Baptist University,26.527820307999317 mi
+"LINESTRING (-117.8851033 33.8823476, -117.8416747 33.6423814)",California State University Fullerton & University of California Irvine,16.766860046805466 mi
+"LINESTRING (-117.8416747 33.6423814, -117.2340135 32.8800604)",University of California Irvine & University of California San Diego,63.29950813037426 mi
+"LINESTRING (-117.5847877 47.4906616, -117.4021153 47.6658548)",Eastern Washington University & Gonzaga University,14.799310043209326 mi
+"LINESTRING (-117.5847877 47.4906616, -117.1542121 46.7319225)",Eastern Washington University & Washington State University,56.19824184899923 mi
+"LINESTRING (-117.4259155 33.9288906, -117.3280644 33.9737055)",California Baptist University & University of California Riverside,6.406306297957061 mi
+"LINESTRING (-117.3280644 33.9737055, -115.1435252 36.107496)",University of California Riverside & University of Nevada Las Vegas,192.3627521572339 mi
+"LINESTRING (-117.2340135 32.8800604, -117.1888625 32.7721681)",University of California San Diego & University of San Diego,7.902228317222447 mi
+"LINESTRING (-117.1888625 32.7721681, -117.0714068 32.7774047)",University of San Diego & San Diego State University,6.833133805845517 mi
+"LINESTRING (-117.1542121 46.7319225, -117.0126084 46.72881239999999)",Washington State University & University of Idaho,6.709698826787478 mi
+"LINESTRING (-117.0126084 46.72881239999999, -113.9845969 46.8619309)",University of Idaho & University of Montana,143.51773255628734 mi
+"LINESTRING (-116.2009765 43.6023364, -112.429762 42.8627836)",Boise State University & Idaho State University,196.5814396095147 mi
+"LINESTRING (-115.1435252 36.107496, -113.56541 37.1028746)",University of Nevada Las Vegas & Utah Tech University,111.31555224970452 mi
+"LINESTRING (-113.9845969 46.8619309, -111.0546211 45.66735239999999)",University of Montana & Montana State University,162.46476519019734 mi
+"LINESTRING (-113.56541 37.1028746, -111.6540336 35.1802684)",Utah Tech University & Northern Arizona University,170.34629206388735 mi
+"LINESTRING (-113.56541 37.1028746, -113.0713001 37.6764461)",Utah Tech University & Southern Utah University,48.024184113900915 mi
+"LINESTRING (-113.0713001 37.6764461, -111.6493156 40.2518435)",Southern Utah University & Brigham Young University,193.642256123462 mi
+"LINESTRING (-112.429762 42.8627836, -111.8097425 41.745161)",Idaho State University & Utah State University,83.46756570138166 mi
+"LINESTRING (-112.429762 42.8627836, -111.0546211 45.66735239999999)",Idaho State University & Montana State University,205.36872768329292 mi
+"LINESTRING (-112.1288588 33.5100339, -111.9264972 33.42316849999999)",Grand Canyon University & Arizona State University,13.11749418701424 mi
+"LINESTRING (-112.1288588 33.5100339, -111.6540336 35.1802684)",Grand Canyon University & Northern Arizona University,118.53923596414309 mi
+"LINESTRING (-111.9440252 41.1913021, -111.8421021 40.7649368)",Weber State University & The University of Utah,29.935231024310696 mi
+"LINESTRING (-111.9440252 41.1913021, -111.8097425 41.745161)",Weber State University & Utah State University,38.89476051321485 mi
+"LINESTRING (-111.9264972 33.42316849999999, -110.9501094 32.2318851)",Arizona State University & The University of Arizona,99.94214789833526 mi
+"LINESTRING (-111.8421021 40.7649368, -111.7153739 40.2787626)",The University of Utah & Utah Valley University,34.24484233568764 mi
+"LINESTRING (-111.7153739 40.2787626, -111.6493156 40.2518435)",Utah Valley University & Brigham Young University,3.948318928099711 mi
+"LINESTRING (-110.9501094 32.2318851, -106.7491391 32.27928869999999)",The University of Arizona & New Mexico State University,245.47391600766136 mi
+"LINESTRING (-106.7491391 32.27928869999999, -106.6197812 35.0843187)",New Mexico State University & The University of New Mexico,193.95359465487283 mi
+"LINESTRING (-106.7491391 32.27928869999999, -106.5047208 31.7731979)",New Mexico State University & The University of Texas at El Paso,37.78550272997237 mi
+"LINESTRING (-106.6197812 35.0843187, -101.8746483 33.5845522)",The University of New Mexico & Texas Tech University,289.8476965841741 mi
+"LINESTRING (-106.6197812 35.0843187, -104.8613176 38.9983094)",The University of New Mexico & United States Air Force Academy,287.2794753465509 mi
+"LINESTRING (-105.5665744 41.3148754, -105.0848391 40.5729432)",University of Wyoming & Colorado State University,57.09636369517954 mi
+"LINESTRING (-105.2659871 40.0073499, -104.9618965 39.6766174)",University of Colorado Boulder & University of Denver,27.972337735767656 mi
+"LINESTRING (-105.2659871 40.0073499, -105.0848391 40.5729432)",University of Colorado Boulder & Colorado State University,40.22842415729197 mi
+"LINESTRING (-105.0848391 40.5729432, -104.6944603 40.4062697)",Colorado State University & University of Northern Colorado,23.524969907811748 mi
+"LINESTRING (-104.9618965 39.6766174, -104.8613176 38.9983094)",University of Denver & United States Air Force Academy,47.174261226406394 mi
+"LINESTRING (-101.8746483 33.5845522, -99.7080103 32.4700922)",Texas Tech University & Abilene Christian University,147.244346398188 mi
+"LINESTRING (-99.7080103 32.4700922, -98.215953 32.2160433)",Abilene Christian University & Tarleton State University,88.84893170636049 mi
+"LINESTRING (-98.61987789999999 29.5830733, -98.4676824 29.4675393)",The University of Texas at San Antonio & University of the Incarnate Word,12.142899124850105 mi
+"LINESTRING (-98.4676824 29.4675393, -97.938351 29.888411)",University of the Incarnate Word & Texas State University,43.07360936241829 mi
+"LINESTRING (-98.4676824 29.4675393, -97.32457389999999 27.7123121)",University of the Incarnate Word & Texas A&M University-Corpus Christi,139.70224042653857 mi
+"LINESTRING (-98.215953 32.2160433, -97.36280409999999 32.7078531)",Tarleton State University & Texas Christian University,60.23644694800241 mi
+"LINESTRING (-98.215953 32.2160433, -97.11354 31.5500848)",Tarleton State University & Baylor University,79.37511912764967 mi
+"LINESTRING (-98.17401579999999 26.30819829999999, -97.32457389999999 27.7123121)",The University of Texas Rio Grande Valley & Texas A&M University-Corpus Christi,110.20913828364294 mi
+"LINESTRING (-97.938351 29.888411, -97.7340567 30.2849185)",Texas State University & The University of Texas at Austin,29.99553936952209 mi
+"LINESTRING (-97.7340567 30.2849185, -96.33646549999999 30.6186806)",The University of Texas at Austin & Texas A&M University,86.37914967816437 mi
+"LINESTRING (-97.4448963 35.1987162, -97.07372219999999 36.12702360000001)",The University of Oklahoma & Oklahoma State University,67.43989636065238 mi
+"LINESTRING (-97.36280409999999 32.7078531, -97.11519709999999 32.7292117)",Texas Christian University & The University of Texas at Arlington,14.46918030619225 mi
+"LINESTRING (-97.28994209999999 37.7191442, -96.5847249 39.1974437)",Wichita State University & Kansas State University,109.0346605098816 mi
+"LINESTRING (-97.28994209999999 37.7191442, -97.07372219999999 36.12702360000001)",Wichita State University & Oklahoma State University,110.65245694457144 mi
+"LINESTRING (-97.1525862 33.207488, -96.78451749999999 32.8412178)",University of North Texas & Southern Methodist University,33.09231574286539 mi
+"LINESTRING (-97.11519709999999 32.7292117, -96.78451749999999 32.8412178)",The University of Texas at Arlington & Southern Methodist University,20.708840586486733 mi
+"LINESTRING (-97.11354 31.5500848, -96.33646549999999 30.6186806)",Baylor University & Texas A&M University,79.09303687365797 mi
+"LINESTRING (-97.0768014 47.922891, -96.8024367 46.8977528)",University of North Dakota & North Dakota State University,71.98328483954595 mi
+"LINESTRING (-97.07372219999999 36.12702360000001, -95.9528284 36.05080929999999)",Oklahoma State University & Oral Roberts University,62.80612563820482 mi
+"LINESTRING (-96.92533809999999 42.7883015, -96.010696 41.2580268)",University of South Dakota & University of Nebraska Omaha,115.68492057779008 mi
+"LINESTRING (-96.92533809999999 42.7883015, -96.78351819999999 44.3191071)",University of South Dakota & South Dakota State University,106.00771155224832 mi
+"LINESTRING (-96.8024367 46.8977528, -96.78351819999999 44.3191071)",North Dakota State University & South Dakota State University,178.17153444750272 mi
+"LINESTRING (-96.78451749999999 32.8412178, -95.91041489999999 33.24066449999999)",Southern Methodist University & Texas A&M University-Commerce,57.66203549108157 mi
+"LINESTRING (-96.70047629999999 40.82019659999999, -96.5847249 39.1974437)",University of Nebraska-Lincoln & Kansas State University,112.28982530653525 mi
+"LINESTRING (-96.70047629999999 40.82019659999999, -96.010696 41.2580268)",University of Nebraska-Lincoln & University of Nebraska Omaha,46.982734125082445 mi
+"LINESTRING (-96.5847249 39.1974437, -95.2557961 38.95434389999999)",Kansas State University & University of Kansas,73.2332948646969 mi
+"LINESTRING (-96.33646549999999 30.6186806, -95.9907076 30.0954974)",Texas A&M University & Prairie View A&M University,41.61353095031848 mi
+"LINESTRING (-96.33646549999999 30.6186806, -95.547276 30.7135813)",Texas A&M University & Sam Houston State University,47.35878037046356 mi
+"LINESTRING (-96.010696 41.2580268, -95.94638619999999 41.26555210000001)",University of Nebraska Omaha & Creighton University,3.3803704739517673 mi
+"LINESTRING (-95.9907076 30.0954974, -95.51621569999999 29.6946466)",Prairie View A&M University & Houston Christian University,39.685122051200594 mi
+"LINESTRING (-95.9528284 36.05080929999999, -95.94607529999999 36.1520526)",Oral Roberts University & The University of Tulsa,7.005465665483332 mi
+"LINESTRING (-95.94607529999999 36.1520526, -94.1748471 36.0686895)",The University of Tulsa & University of Arkansas,99.03613480123391 mi
+"LINESTRING (-95.547276 30.7135813, -94.64664379999999 31.6216141)",Sam Houston State University & Stephen F. Austin State University,82.28779995091442 mi
+"LINESTRING (-95.51621569999999 29.6946466, -95.40183119999999 29.7173941)",Houston Christian University & Rice University,7.04226885864659 mi
+"LINESTRING (-95.40183119999999 29.7173941, -95.35926909999999 29.7214214)",Rice University & Texas Southern University,2.5690830127206223 mi
+"LINESTRING (-95.35926909999999 29.7214214, -95.3422334 29.7199489)",Texas Southern University & University of Houston,1.0272768492349411 mi
+"LINESTRING (-95.3422334 29.7199489, -94.0747071 30.0392256)",University of Houston & Lamar University,79.07597734101641 mi
+"LINESTRING (-95.2557961 38.95434389999999, -94.58342739999999 39.0343551)",University of Kansas & University of Missouri-Kansas City,36.52720497989352 mi
+"LINESTRING (-94.1748471 36.0686895, -92.4578916 35.0780939)",University of Arkansas & University of Central Arkansas,118.29789445599465 mi
+"LINESTRING (-94.1748471 36.0686895, -93.2806806 37.20055459999999)",University of Arkansas & Missouri State University,92.59433537896984 mi
+"LINESTRING (-94.0747071 30.0392256, -93.2152198 30.1776851)",Lamar University & McNeese State University,52.25607853355915 mi
+"LINESTRING (-93.6546481 41.6030995, -93.64645159999999 42.0266573)",Drake University & Iowa State University,29.268386255986247 mi
+"LINESTRING (-93.64645159999999 42.0266573, -92.46464689999999 42.5121517)",Iowa State University & University of Northern Iowa,69.11029611883116 mi
+"LINESTRING (-93.2277285 44.97399, -93.1897082 44.943096)",University of Minnesota & University of St. Thomas,2.8305453904622606 mi
+"LINESTRING (-93.2152198 30.1776851, -92.019914 30.211991)",McNeese State University & University of Louisiana at Lafayette,71.42197834366809 mi
+"LINESTRING (-93.1897082 44.943096, -92.46464689999999 42.5121517)",University of St. Thomas & University of Northern Iowa,171.81885505633306 mi
+"LINESTRING (-93.097876 31.7489726, -92.7179736 32.5197213)",Northwestern State University & Grambling State University,57.70670717616171 mi
+"LINESTRING (-92.7179736 32.5197213, -92.6522174 32.5299582)",Grambling State University & Louisiana Tech University,3.895527573063809 mi
+"LINESTRING (-92.6522174 32.5299582, -92.068744 32.5313471)",Louisiana Tech University & University of Louisiana Monroe,33.98945999379147 mi
+"LINESTRING (-92.46464689999999 42.5121517, -91.5549771 41.66270780000001)",University of Northern Iowa & The University of Iowa,74.96833576372264 mi
+"LINESTRING (-92.4578916 35.0780939, -92.3378705 34.7252717)",University of Central Arkansas & University of Arkansas at Little Rock,25.308873933595375 mi
+"LINESTRING (-92.3378705 34.7252717, -92.0217418 34.2473695)",University of Arkansas at Little Rock & University of Arkansas Pine Bluff,37.609511206896016 mi
+"LINESTRING (-92.32773750000001 38.94038079999999, -90.49747719999999 38.7859638)",University of Missouri & Lindenwood University,99.04240403109017 mi
+"LINESTRING (-92.068744 32.5313471, -91.1365733 31.8741511)",University of Louisiana Monroe & Alcorn State University,70.93679144276997 mi
+"LINESTRING (-92.0217418 34.2473695, -90.3416715 33.51269819999999)",University of Arkansas Pine Bluff & Mississippi Valley State University,108.9217088783376 mi
+"LINESTRING (-92.019914 30.211991, -91.1800023 30.4132579)",University of Louisiana at Lafayette & Louisiana State University,51.99300543545783 mi
+"LINESTRING (-91.5549771 41.66270780000001, -90.6837163 40.4674396)",The University of Iowa & Western Illinois University,94.23501922469279 mi
+"LINESTRING (-91.1929407 30.5265222, -91.1800023 30.4132579)",Southern University and A&M College & Louisiana State University,7.863733232934341 mi
+"LINESTRING (-91.1800023 30.4132579, -90.4710715 30.5178932)",Louisiana State University & Southeastern Louisiana University,42.83449755882862 mi
+"LINESTRING (-91.1365733 31.8741511, -90.2063989 32.2968882)",Alcorn State University & Jackson State University,61.79160259629419 mi
+"LINESTRING (-90.8028911 29.7903032, -90.12031669999999 29.9407282)",Nicholls State University & Tulane University,42.198501290729375 mi
+"LINESTRING (-90.6837163 40.4674396, -89.6153484 40.6977743)",Western Illinois University & Bradley University,58.277103587111434 mi
+"LINESTRING (-90.67485889999999 35.8430861, -89.9374928 35.1187498)",Arkansas State University & University of Memphis,65.00656415028737 mi
+"LINESTRING (-90.49747719999999 38.7859638, -90.23364079999999 38.63482369999999)",Lindenwood University & Saint Louis University,17.64649706479118 mi
+"LINESTRING (-90.4710715 30.5178932, -90.0680105 30.0273134)",Southeastern Louisiana University & The University of New Orleans,41.56222700273222 mi
+"LINESTRING (-90.4710715 30.5178932, -89.33345349999999 31.3298668)",Southeastern Louisiana University & The University of Southern Mississippi,87.71557936366821 mi
+"LINESTRING (-90.3416715 33.51269819999999, -90.2063989 32.2968882)",Mississippi Valley State University & Jackson State University,84.37097181369687 mi
+"LINESTRING (-90.3416715 33.51269819999999, -89.5383818 34.36473489999999)",Mississippi Valley State University & University of Mississippi,74.73936646425423 mi
+"LINESTRING (-90.23364079999999 38.63482369999999, -89.2229983 37.7079717)",Saint Louis University & Southern Illinois University,84.34831547588063 mi
+"LINESTRING (-90.23364079999999 38.63482369999999, -89.9996714 38.7951375)",Saint Louis University & Southern Illinois University Edwardsville,16.786888748240468 mi
+"LINESTRING (-90.2063989 32.2968882, -89.33345349999999 31.3298668)",Jackson State University & The University of Southern Mississippi,84.2089566562279 mi
+"LINESTRING (-90.12031669999999 29.9407282, -90.0680105 30.0273134)",Tulane University & The University of New Orleans,6.752020650650879 mi
+"LINESTRING (-89.9374928 35.1187498, -89.5383818 34.36473489999999)",University of Memphis & University of Mississippi,56.812533691698114 mi
+"LINESTRING (-89.6153484 40.6977743, -88.99476299999999 40.5121009)",Bradley University & Illinois State University,34.990740686247 mi
+"LINESTRING (-89.5383818 34.36473489999999, -88.79437659999999 33.45517419999999)",University of Mississippi & Mississippi State University,75.95759450387789 mi
+"LINESTRING (-89.52804379999999 37.3148783, -89.2229983 37.7079717)",Southeast Missouri State University & Southern Illinois University,31.893650009352818 mi
+"LINESTRING (-89.52804379999999 37.3148783, -88.86433319999999 36.3429724)",Southeast Missouri State University & University of Tennessee at Martin,76.52967648886359 mi
+"LINESTRING (-89.4124875 43.07659200000001, -87.93101399999999 43.03869549999999)",University of Wisconsin-Madison & Marquette University,74.8367207179013 mi
+"LINESTRING (-89.33345349999999 31.3298668, -88.184236 30.6959406)",The University of Southern Mississippi & University of South Alabama,80.92970645068877 mi
+"LINESTRING (-89.2229983 37.7079717, -87.6727294 37.9634036)",Southern Illinois University & University of Southern Indiana,86.41633300224304 mi
+"LINESTRING (-88.99476299999999 40.5121009, -88.2271615 40.1019523)",Illinois State University & University of Illinois Urbana-Champaign,49.384960466897404 mi
+"LINESTRING (-88.86433319999999 36.3429724, -88.3209372 36.616251)",University of Tennessee at Martin & Murray State University,35.60763017474115 mi
+"LINESTRING (-88.79437659999999 33.45517419999999, -87.5401002 33.2114385)",Mississippi State University & The University of Alabama,74.33810309350689 mi
+"LINESTRING (-88.7734365 41.935056, -87.67526699999999 42.05645939999999)",Northern Illinois University & Northwestern University,57.011427392062245 mi
+"LINESTRING (-88.3209372 36.616251, -87.3548855 36.53498)",Murray State University & Austin Peay State University,53.896851996097006 mi
+"LINESTRING (-88.2271615 40.1019523, -88.17521839999999 39.4835612)",University of Illinois Urbana-Champaign & Eastern Illinois University,42.81606725196523 mi
+"LINESTRING (-88.17521839999999 39.4835612, -87.40828069999999 39.4713985)",Eastern Illinois University & Indiana State University,40.91080843697036 mi
+"LINESTRING (-87.93101399999999 43.03869549999999, -87.67526699999999 42.05645939999999)",Marquette University & Northwestern University,69.10390833716741 mi
+"LINESTRING (-87.93101399999999 43.03869549999999, -87.8819686 43.07826299999999)",Marquette University & University of Wisconsin-Milwaukee,3.6884606211776614 mi
+"LINESTRING (-87.9210482 44.5313196, -87.8819686 43.07826299999999)",University of Wisconsin-Green Bay & University of Wisconsin-Milwaukee,100.41653665983958 mi
+"LINESTRING (-87.6804676 34.807836, -86.5722237 34.78384090000001)",University of North Alabama & Alabama A&M University,62.902653882774665 mi
+"LINESTRING (-87.67526699999999 42.05645939999999, -87.65825919999999 41.9989483)",Northwestern University & Loyola University Chicago,4.068426866460517 mi
+"LINESTRING (-87.6727294 37.9634036, -87.5321724 37.9734113)",University of Southern Indiana & University of Evansville,7.687348331850308 mi
+"LINESTRING (-87.65825919999999 41.9989483, -87.65416549999999 41.92418680000001)",Loyola University Chicago & DePaul University,5.16985826148911 mi
+"LINESTRING (-87.65416549999999 41.92418680000001, -87.60943879999999 41.7179751)",DePaul University & Chicago State University,14.432938358609908 mi
+"LINESTRING (-87.60943879999999 41.7179751, -87.04388929999999 41.4639394)",Chicago State University & Valparaiso University,34.0908669211568 mi
+"LINESTRING (-87.5401002 33.2114385, -86.7913423 33.4649218)",The University of Alabama & Samford University,46.6349331813543 mi
+"LINESTRING (-87.40828069999999 39.4713985, -86.52300729999999 39.1682449)",Indiana State University & Indiana University Bloomington,51.74850989786991 mi
+"LINESTRING (-87.3548855 36.53498, -86.8258566 36.1683703)",Austin Peay State University & Tennessee State University,38.836902157924044 mi
+"LINESTRING (-87.3548855 36.53498, -86.456 36.9847167)",Austin Peay State University & Western Kentucky University,58.663208752014185 mi
+"LINESTRING (-87.04388929999999 41.4639394, -86.2355439 41.7050504)",Valparaiso University & University of Notre Dame,44.97492950941436 mi
+"LINESTRING (-86.92119459999999 40.4237054, -86.1712038 39.8410384)",Purdue University & Butler University,56.48374217124213 mi
+"LINESTRING (-86.8258566 36.1683703, -86.8026551 36.14470339999999)",Tennessee State University & Vanderbilt University,2.0855092879274237 mi
+"LINESTRING (-86.80574949999999 33.5020323, -86.7913423 33.4649218)",University of Alabama at Birmingham & Samford University,2.6951829867939483 mi
+"LINESTRING (-86.80574949999999 33.5020323, -85.7681921 33.82309530000001)",University of Alabama at Birmingham & Jacksonville State University,63.65791367153767 mi
+"LINESTRING (-86.8026551 36.14470339999999, -86.7941702 36.1329081)",Vanderbilt University & Belmont University,0.9425292323763069 mi
+"LINESTRING (-86.7988728 36.1046431, -86.7941702 36.1329081)",Lipscomb University & Belmont University,1.9705033533077096 mi
+"LINESTRING (-86.7988728 36.1046431, -86.36691549999999 35.8486229)",Lipscomb University & Middle Tennessee State University,29.937828378342964 mi
+"LINESTRING (-86.7913423 33.4649218, -86.2939803 32.3629762)",Samford University & Alabama State University,81.41977004602207 mi
+"LINESTRING (-86.5722237 34.78384090000001, -86.36691549999999 35.8486229)",Alabama A&M University & Middle Tennessee State University,74.47509060482132 mi
+"LINESTRING (-86.5722237 34.78384090000001, -85.2953072 35.0458509)",Alabama A&M University & The University of Tennessee at Chattanooga,74.57676404767983 mi
+"LINESTRING (-86.52300729999999 39.1682449, -86.17626059999999 39.773929)",Indiana University Bloomington & IUPUI,45.75354905055657 mi
+"LINESTRING (-86.456 36.9847167, -85.75850229999999 38.2122761)",Western Kentucky University & University of Louisville,93.01486009124426 mi
+"LINESTRING (-86.36691549999999 35.8486229, -85.50910859999999 36.1763138)",Middle Tennessee State University & Tennessee Tech University,53.019589319593365 mi
+"LINESTRING (-86.2939803 32.3629762, -85.4942667 32.59805490000001)",Alabama State University & Auburn University,49.36082691371035 mi
+"LINESTRING (-86.2939803 32.3629762, -85.9571615 31.80259259999999)",Alabama State University & Troy University,43.45080591479483 mi
+"LINESTRING (-86.2355439 41.7050504, -85.6102506 42.2837337)",University of Notre Dame & Western Michigan University,51.28047593669064 mi
+"LINESTRING (-86.2355439 41.7050504, -85.1059405 41.1184535)",University of Notre Dame & Purdue University Fort Wayne,71.19609019886418 mi
+"LINESTRING (-86.17626059999999 39.773929, -86.1712038 39.8410384)",IUPUI & Butler University,4.6446250508744 mi
+"LINESTRING (-86.1712038 39.8410384, -85.40582409999999 40.2024944)",Butler University & Ball State University,47.57923498469404 mi
+"LINESTRING (-85.9571615 31.80259259999999, -84.2984889 30.4418778)",Troy University & Florida State University,135.88055477536957 mi
+"LINESTRING (-85.7681921 33.82309530000001, -84.5815717 34.03807839999999)",Jacksonville State University & Kennesaw State University,69.62939614271048 mi
+"LINESTRING (-85.75850229999999 38.2122761, -85.7055271 38.21849390000001)",University of Louisville & Bellarmine University,2.9077554214196497 mi
+"LINESTRING (-85.7055271 38.21849390000001, -84.5039697 38.0306511)",Bellarmine University & University of Kentucky,66.58638607525641 mi
+"LINESTRING (-85.6102506 42.2837337, -84.4815364 42.72965930000001)",Western Michigan University & Michigan State University,65.22697245202546 mi
+"LINESTRING (-85.40582409999999 40.2024944, -84.73449149999999 39.5087485)",Ball State University & Miami University,59.712021386037996 mi
+"LINESTRING (-85.40582409999999 40.2024944, -85.1059405 41.1184535)",Ball State University & Purdue University Fort Wayne,65.20988376416862 mi
+"LINESTRING (-85.2953072 35.0458509, -84.5815717 34.03807839999999)",The University of Tennessee at Chattanooga & Kennesaw State University,80.61308290463714 mi
+"LINESTRING (-84.77586389999999 43.5905995, -84.4815364 42.72965930000001)",Central Michigan University & Michigan State University,61.30749229953113 mi
+"LINESTRING (-84.73449149999999 39.5087485, -84.47406869999999 39.1498065)",Miami University & Xavier University,28.439379174857134 mi
+"LINESTRING (-84.73449149999999 39.5087485, -84.17904449999999 39.7401454)",Miami University & University of Dayton,33.60702362084722 mi
+"LINESTRING (-84.5815717 34.03807839999999, -84.39628499999999 33.77561779999999)",Kennesaw State University & Georgia Institute of Technology,21.017907980268753 mi
+"LINESTRING (-84.51495039999999 39.13292189999999, -84.47406869999999 39.1498065)",University of Cincinnati & Xavier University,2.482059144712155 mi
+"LINESTRING (-84.51495039999999 39.13292189999999, -84.4625345 39.03120349999999)",University of Cincinnati & Northern Kentucky University,7.569542860344969 mi
+"LINESTRING (-84.5039697 38.0306511, -84.2987483 37.7359731)",University of Kentucky & Eastern Kentucky University,23.233541800871443 mi
+"LINESTRING (-84.4815364 42.72965930000001, -83.7382071 42.277145)",Michigan State University & University of Michigan,49.10431123527545 mi
+"LINESTRING (-84.39628499999999 33.77561779999999, -84.38528190000001 33.75306799999999)",Georgia Institute of Technology & Georgia State University,1.6813661077273112 mi
+"LINESTRING (-84.38528190000001 33.75306799999999, -83.64969909999999 32.8284878)",Georgia State University & Mercer University,76.71915017025394 mi
+"LINESTRING (-84.38528190000001 33.75306799999999, -83.375192 33.95666559999999)",Georgia State University & University of Georgia,59.64070293813876 mi
+"LINESTRING (-84.2987483 37.7359731, -83.4310035 38.18943)",Eastern Kentucky University & Morehead State University,56.71022664144669 mi
+"LINESTRING (-84.2984889 30.4418778, -84.2877093 30.4227211)",Florida State University & Florida A&M University,1.4711793156487267 mi
+"LINESTRING (-84.2877093 30.4227211, -82.35348400000001 29.644591)",Florida A&M University & University of Florida,127.57827807373525 mi
+"LINESTRING (-84.17904449999999 39.7401454, -84.06510779999999 39.77985419999999)",University of Dayton & Wright State University,6.644609389638063 mi
+"LINESTRING (-84.06510779999999 39.77985419999999, -83.0304546 40.0066723)",Wright State University & Ohio State University,57.04342512202318 mi
+"LINESTRING (-83.92945639999999 35.9544013, -83.1863612 35.3090108)",University of Tennessee & Western Carolina University,61.0730553423748 mi
+"LINESTRING (-83.7382071 42.277145, -83.624089 42.25068029999999)",University of Michigan & Eastern Michigan University,6.115041359604924 mi
+"LINESTRING (-83.63009749999999 41.3798424, -83.6142374 41.6578804)",Bowling Green State University & The University of Toledo,19.228297492968668 mi
+"LINESTRING (-83.624089 42.25068029999999, -83.1379388 42.4140847)",Eastern Michigan University & University of Detroit Mercy,27.277665359251845 mi
+"LINESTRING (-83.624089 42.25068029999999, -83.6142374 41.6578804)",Eastern Michigan University & The University of Toledo,40.96210019722732 mi
+"LINESTRING (-83.4310035 38.18943, -82.42471979999999 38.4236597)",Morehead State University & Marshall University,56.90856475006041 mi
+"LINESTRING (-83.375192 33.95666559999999, -82.8367119 34.673407)",University of Georgia & Clemson University,58.282051275810744 mi
+"LINESTRING (-83.20823469999999 42.6678782, -83.1379388 42.4140847)",Oakland University & University of Detroit Mercy,17.897064542441484 mi
+"LINESTRING (-83.1863612 35.3090108, -82.5665332 35.6170787)",Western Carolina University & University of North Carolina Asheville,40.8632165762872 mi
+"LINESTRING (-83.1863612 35.3090108, -82.8367119 34.673407)",Western Carolina University & Clemson University,48.1701184858071 mi
+"LINESTRING (-83.0304546 40.0066723, -82.10138889999999 39.32435799999999)",Ohio State University & Ohio University,68.2953047488743 mi
+"LINESTRING (-82.8367119 34.673407, -82.4400679 34.92747409999999)",Clemson University & Furman University,28.54108262307469 mi
+"LINESTRING (-82.5665332 35.6170787, -82.36985299999999 36.30239539999999)",University of North Carolina Asheville & East Tennessee State University,48.612125052533166 mi
+"LINESTRING (-82.4400679 34.92747409999999, -81.9711555 34.9996102)",Furman University & University of South Carolina Upstate,27.015318780524357 mi
+"LINESTRING (-82.42471979999999 38.4236597, -82.10138889999999 39.32435799999999)",Marshall University & Ohio University,64.61748075430467 mi
+"LINESTRING (-82.41385389999999 28.0587031, -81.2000599 28.6024274)",University of South Florida & University of Central Florida,82.8297433996739 mi
+"LINESTRING (-82.41385389999999 28.0587031, -81.7800748 26.4626967)",University of South Florida & Florida Gulf Coast University,116.94270864783503 mi
+"LINESTRING (-82.36985299999999 36.30239539999999, -81.68432179999999 36.21356280000001)",East Tennessee State University & Appalachian State University,38.68422107663757 mi
+"LINESTRING (-82.35348400000001 29.644591, -81.3009245 29.0335139)",University of Florida & Stetson University,76.16972595690713 mi
+"LINESTRING (-82.35348400000001 29.644591, -81.6035285 30.3516278)",University of Florida & Jacksonville University,66.33500284874748 mi
+"LINESTRING (-81.9711555 34.9996102, -81.9351358 34.9590202)",University of South Carolina Upstate & Wofford College,3.467511178230047 mi
+"LINESTRING (-81.9711555 34.9996102, -81.6706979 35.2475249)",University of South Carolina Upstate & Gardner-Webb University,24.11904562734538 mi
+"LINESTRING (-81.9351358 34.9590202, -81.87755899999999 34.465182)",Wofford College & Presbyterian College,34.27765025799539 mi
+"LINESTRING (-81.87755899999999 34.465182, -81.0299186 33.9937575)",Presbyterian College & University of South Carolina,58.3582458732648 mi
+"LINESTRING (-81.7842919 32.4196512, -80.8492832 33.4981687)",Georgia Southern University & South Carolina State University,92.14782424714909 mi
+"LINESTRING (-81.7800748 26.4626967, -80.3755401 25.7562465)",Florida Gulf Coast University & Florida International University,99.88026913457384 mi
+"LINESTRING (-81.67442299999999 41.5027643, -81.34331590000001 41.1497945)",Cleveland State University & Kent State University,29.831778107698277 mi
+"LINESTRING (-81.6706979 35.2475249, -81.03199699999999 34.9394013)",Gardner-Webb University & Winthrop University,41.917000020479804 mi
+"LINESTRING (-81.6035285 30.3516278, -81.50723140000001 30.2661204)",Jacksonville University & University of North Florida,8.240157853029086 mi
+"LINESTRING (-81.50975439999999 41.0716551, -81.34331590000001 41.1497945)",University of Akron & Kent State University,10.20893801396386 mi
+"LINESTRING (-81.34331590000001 41.1497945, -80.6480952 41.10664130000001)",Kent State University & Youngstown State University,36.30489256260826 mi
+"LINESTRING (-81.3009245 29.0335139, -81.2000599 28.6024274)",Stetson University & University of Central Florida,30.404958161519808 mi
+"LINESTRING (-81.3009245 29.0335139, -81.03157399999999 29.2110122)",Stetson University & Bethune-Cookman University,20.364792345689455 mi
+"LINESTRING (-81.03199699999999 34.9394013, -80.83297240000002 35.18862599999999)",Winthrop University & Queens University of Charlotte,20.572234393112783 mi
+"LINESTRING (-81.0299186 33.9937575, -80.8492832 33.4981687)",University of South Carolina & South Carolina State University,35.7803311893296 mi
+"LINESTRING (-80.8492832 33.4981687, -80.07065539999999 32.9821829)",South Carolina State University & Charleston Southern University,57.407664366008596 mi
+"LINESTRING (-80.8423248 35.5015528, -80.2792887 36.1354887)",Davidson College & Wake Forest University,53.97784274674753 mi
+"LINESTRING (-80.8423248 35.5015528, -80.735164 35.30709289999999)",Davidson College & University of North Carolina at Charlotte,14.729168087086803 mi
+"LINESTRING (-80.83297240000002 35.18862599999999, -80.735164 35.30709289999999)",Queens University of Charlotte & University of North Carolina at Charlotte,9.872155287855378 mi
+"LINESTRING (-80.6480952 41.10664130000001, -80.2127179 40.5213461)",Youngstown State University & Robert Morris University,46.4085726241966 mi
+"LINESTRING (-80.5502298 37.1374838, -80.2792887 36.1354887)",Radford University & Wake Forest University,70.84282915705373 mi
+"LINESTRING (-80.5502298 37.1374838, -79.4351978 37.7909313)",Radford University & Virginia Military Institute,76.01147128021204 mi
+"LINESTRING (-80.3755401 25.7562465, -80.10190229999999 26.37374729999999)",Florida International University & Florida Atlantic University,45.92172955320238 mi
+"LINESTRING (-80.3755401 25.7562465, -80.2781262 25.7173947)",Florida International University & University of Miami,6.630718647056671 mi
+"LINESTRING (-80.2792887 36.1354887, -79.9976255 35.97653809999999)",Wake Forest University & High Point University,19.187302594068058 mi
+"LINESTRING (-80.2127179 40.5213461, -79.99025759999999 40.4369485)",Robert Morris University & Duquesne University,13.06515511709763 mi
+"LINESTRING (-80.07065539999999 32.9821829, -79.9596641 32.7973082)",Charleston Southern University & The Citadel,14.305167143781256 mi
+"LINESTRING (-80.07065539999999 32.9821829, -79.0136958 33.79611939999999)",Charleston Southern University & Coastal Carolina University,82.94977714389744 mi
+"LINESTRING (-79.9976255 35.97653809999999, -79.8101976 36.0689296)",High Point University & University of North Carolina Greensboro,12.265959679867603 mi
+"LINESTRING (-79.99025759999999 40.4369485, -79.9605375 40.44402789999999)",Duquesne University & University of Pittsburgh,1.6376235153771945 mi
+"LINESTRING (-79.99025759999999 40.4369485, -79.9697147 39.6480359)",Duquesne University & West Virginia University,54.52003116988841 mi
+"LINESTRING (-79.9605375 40.44402789999999, -78.6376191 40.50382)",University of Pittsburgh & Saint Francis University,69.65452493914052 mi
+"LINESTRING (-79.9596641 32.7973082, -79.93700179999999 32.7834441)",The Citadel & College of Charleston,1.6279876455042412 mi
+"LINESTRING (-79.8101976 36.0689296, -79.77292419999999 36.0806927)",University of North Carolina Greensboro & North Carolina A&T State University,2.2345903387981774 mi
+"LINESTRING (-79.77292419999999 36.0806927, -79.5023649 36.1028244)",North Carolina A&T State University & Elon University,15.183382392367601 mi
+"LINESTRING (-79.5023649 36.1028244, -79.0469134 35.9049122)",Elon University & University of North Carolina at Chapel Hill,28.89785585094087 mi
+"LINESTRING (-79.4351978 37.7909313, -79.17841229999999 37.3492244)",Virginia Military Institute & Liberty University,33.60339041549037 mi
+"LINESTRING (-79.17841229999999 37.3492244, -78.3961973 37.29717979999999)",Liberty University & Longwood University,43.12928587907245 mi
+"LINESTRING (-79.0469134 35.9049122, -78.9382286 36.0014258)",University of North Carolina at Chapel Hill & Duke University,9.023423207708193 mi
+"LINESTRING (-79.0349955 43.1369816, -78.7889697 43.0008093)",Niagara University & University at Buffalo,15.580019176145186 mi
+"LINESTRING (-79.0136958 33.79611939999999, -77.8696036 34.22387399999999)",Coastal Carolina University & University of North Carolina Wilmington,71.88398170917984 mi
+"LINESTRING (-78.9382286 36.0014258, -78.899654 35.97524869999999)",Duke University & North Carolina Central University,2.814630044331381 mi
+"LINESTRING (-78.899654 35.97524869999999, -78.6812824 35.7850744)",North Carolina Central University & North Carolina State University,17.947443990540012 mi
+"LINESTRING (-78.8697548 38.435092, -78.5079772 38.0335529)",James Madison University & University of Virginia,33.988813921561785 mi
+"LINESTRING (-78.8550954 42.9237929, -78.7889697 43.0008093)",Canisius University & University at Buffalo,6.284603509891733 mi
+"LINESTRING (-78.8550954 42.9237929, -78.4829439 42.07857680000001)",Canisius University & St. Bonaventure University,61.39920032098665 mi
+"LINESTRING (-78.7397718 35.408157, -78.6812824 35.7850744)",Campbell University & North Carolina State University,26.249267415329673 mi
+"LINESTRING (-78.6812824 35.7850744, -77.3665364 35.6068806)",North Carolina State University & East Carolina University,74.79405795977256 mi
+"LINESTRING (-78.6376191 40.50382, -77.8599084 40.7982133)",Saint Francis University & The Pennsylvania State University,45.560882815918994 mi
+"LINESTRING (-78.5079772 38.0335529, -77.31174709999999 38.8314578)",University of Virginia & George Mason University,85.03551626615004 mi
+"LINESTRING (-78.5079772 38.0335529, -78.3961973 37.29717979999999)",University of Virginia & Longwood University,51.24502186620818 mi
+"LINESTRING (-78.4829439 42.07857680000001, -77.8599084 40.7982133)",St. Bonaventure University & The Pennsylvania State University,94.1672529132847 mi
+"LINESTRING (-78.3961973 37.29717979999999, -77.5397192 37.5758243)",Longwood University & University of Richmond,50.779619799090064 mi
+"LINESTRING (-77.8599084 40.7982133, -77.3486971 39.6799914)",The Pennsylvania State University & Mount St. Mary's University,81.8316985776997 mi
+"LINESTRING (-77.8599084 40.7982133, -76.88507589999999 40.9547722)",The Pennsylvania State University & Bucknell University,52.064547303603796 mi
+"LINESTRING (-77.5397192 37.5758243, -77.4527359 37.5526695)",University of Richmond & Virginia Commonwealth University,5.025434775554459 mi
+"LINESTRING (-77.4527359 37.5526695, -76.7091042 37.2694402)",Virginia Commonwealth University & William and Mary College,45.260582399931884 mi
+"LINESTRING (-77.3486971 39.6799914, -76.61263919999999 39.39251209999999)",Mount St. Mary's University & Towson University,43.96485742068701 mi
+"LINESTRING (-77.31174709999999 38.8314578, -77.07225849999999 38.9076089)",George Mason University & Georgetown University,13.916312245323475 mi
+"LINESTRING (-77.088922 38.9380155, -77.07225849999999 38.9076089)",American University & Georgetown University,2.283900953887396 mi
+"LINESTRING (-77.07225849999999 38.9076089, -77.0470916 38.8991756)",Georgetown University & George Washington University,1.473331750089828 mi
+"LINESTRING (-77.0470916 38.8991756, -77.0194377 38.9226843)",George Washington University & Howard University,2.202020790306248 mi
+"LINESTRING (-77.0194377 38.9226843, -76.9425543 38.9869183)",Howard University & University of Maryland,6.0632118402957955 mi
+"LINESTRING (-76.9425543 38.9869183, -76.7106829 39.2553955)",University of Maryland & University of Maryland Baltimore County,22.32924541969137 mi
+"LINESTRING (-76.7106829 39.2553955, -76.65799729999999 39.31260109999999)",University of Maryland Baltimore County & Coppin State University,4.854051783231383 mi
+"LINESTRING (-76.7106829 39.2553955, -76.4839405 38.98206580000001)",University of Maryland Baltimore County & United States Naval Academy,22.458804057195433 mi
+"LINESTRING (-76.7091042 37.2694402, -76.3343603 37.02283919999999)",William and Mary College & Hampton University,26.763397566342185 mi
+"LINESTRING (-76.65799729999999 39.31260109999999, -76.6172375 39.3476737)",Coppin State University & Loyola University Maryland,3.2585035830150932 mi
+"LINESTRING (-76.6172375 39.3476737, -76.5843847 39.3437959)",Loyola University Maryland & Morgan State University,1.7757482245688931 mi
+"LINESTRING (-76.6172375 39.3476737, -76.61263919999999 39.39251209999999)",Loyola University Maryland & Towson University,3.107789539414275 mi
+"LINESTRING (-76.61263919999999 39.39251209999999, -75.7506114 39.6779504)",Towson University & University of Delaware,49.9899737301223 mi
+"LINESTRING (-76.4735027 42.4534492, -76.1336922 43.03865020000001)",Cornell University & Syracuse University,43.956640037220076 mi
+"LINESTRING (-76.4735027 42.4534492, -75.9694885 42.0894288)",Cornell University & Binghamton University,36.00877819510131 mi
+"LINESTRING (-76.3343603 37.02283919999999, -76.3058786 36.8853217)",Hampton University & Old Dominion University,9.630906352764415 mi
+"LINESTRING (-76.3058786 36.8853217, -76.2620987 36.8479292)",Old Dominion University & Norfolk State University,3.54000474005622 mi
+"LINESTRING (-76.1336922 43.03865020000001, -75.5407355 42.8155894)",Syracuse University & Colgate University,33.726307192038725 mi
+"LINESTRING (-75.7506114 39.6779504, -75.3425785 40.0368926)",University of Delaware & Villanova University,32.91570519818613 mi
+"LINESTRING (-75.7506114 39.6779504, -75.54340309999999 39.1852205)",University of Delaware & Delaware State University,35.795571650004526 mi
+"LINESTRING (-75.6848002 38.2102166, -75.54340309999999 39.1852205)",University of Maryland Eastern Shore & Delaware State University,67.7971088852467 mi
+"LINESTRING (-75.5407355 42.8155894, -73.8247903 42.6850273)",Colgate University & University at Albany,87.52663715341235 mi
+"LINESTRING (-75.3775187 40.6048687, -75.2101079 40.69847129999999)",Lehigh University & Lafayette College,10.901431653891287 mi
+"LINESTRING (-75.3425785 40.0368926, -75.2061581 39.9657716)",Villanova University & Saint Joseph's University,8.734015202855248 mi
+"LINESTRING (-75.2101079 40.69847129999999, -74.7407633 40.2811583)",Lafayette College & Rider University,37.94259461097082 mi
+"LINESTRING (-75.2061581 39.9657716, -75.18994409999999 39.95661269999999)",Saint Joseph's University & Drexel University,1.0666776601117547 mi
+"LINESTRING (-75.1932137 39.9522188, -75.18994409999999 39.95661269999999)",University of Pennsylvania & Drexel University,0.3495099220894242 mi
+"LINESTRING (-75.18994409999999 39.95661269999999, -75.1553563 39.9811911)",Drexel University & Temple University,2.4976956918820763 mi
+"LINESTRING (-75.1558184 40.0390398, -74.7407633 40.2811583)",La Salle University & Rider University,27.571837713017718 mi
+"LINESTRING (-75.1558184 40.0390398, -75.1553563 39.9811911)",La Salle University & Temple University,3.9970783508889047 mi
+"LINESTRING (-74.7407633 40.2811583, -74.65507389999999 40.3430942)",Rider University & Princeton University,6.220572470433445 mi
+"LINESTRING (-74.65507389999999 40.3430942, -74.0054114 40.28027579999999)",Princeton University & Monmouth University,34.50262717954532 mi
+"LINESTRING (-74.246082 40.7430841, -74.1793225 40.74234619999999)",Seton Hall University & New Jersey Institute of Technology,3.4951649008673416 mi
+"LINESTRING (-74.1793225 40.74234619999999, -74.17418909999999 40.7416983)",New Jersey Institute of Technology & Rutgers University,0.27243428049752494 mi
+"LINESTRING (-74.17418909999999 40.7416983, -74.07003259999999 40.72694920000001)",Rutgers University & Saint Peter's University,5.547580150029742 mi
+"LINESTRING (-74.09438229999999 40.6149557, -73.98654619999999 40.69011359999999)",Wagner College & St. Francis College,7.675973698603245 mi
+"LINESTRING (-74.09438229999999 40.6149557, -74.0054114 40.28027579999999)",Wagner College & Monmouth University,23.592856662304527 mi
+"LINESTRING (-74.07003259999999 40.72694920000001, -73.9625727 40.8075355)",Saint Peter's University & Columbia University,7.913596593180074 mi
+"LINESTRING (-74.07003259999999 40.72694920000001, -73.98654619999999 40.69011359999999)",Saint Peter's University & St. Francis College,5.0594398141290595 mi
+"LINESTRING (-74.0303046 40.898241, -73.9011239 40.8900515)",Fairleigh Dickinson University & Manhattan College,6.770745800591871 mi
+"LINESTRING (-73.98654619999999 40.69011359999999, -73.9805528 40.691145)",St. Francis College & Long Island University Brooklyn,0.32197948233470164 mi
+"LINESTRING (-73.9805528 40.691145, -73.7947689 40.72159789999999)",Long Island University Brooklyn & St John's University,9.955799493107747 mi
+"LINESTRING (-73.9625727 40.8075355, -73.8852771 40.8614567)",Columbia University & Fordham University,5.496188900461953 mi
+"LINESTRING (-73.95710729999999 41.3889095, -73.78634939999999 40.9270597)",United States Military Academy & Iona University,33.124363425165676 mi
+"LINESTRING (-73.95710729999999 41.3889095, -73.9344876 41.7231052)",United States Military Academy & Marist College,23.120547210170777 mi
+"LINESTRING (-73.9011239 40.8900515, -73.78634939999999 40.9270597)",Manhattan College & Iona University,6.516012563489457 mi
+"LINESTRING (-73.9011239 40.8900515, -73.8852771 40.8614567)",Manhattan College & Fordham University,2.142180862724706 mi
+"LINESTRING (-73.8247903 42.6850273, -73.7513323 42.71894959999999)",University at Albany & Siena College,4.405231599108311 mi
+"LINESTRING (-73.7947689 40.72159789999999, -73.5993965 40.7166872)",St John's University & Hofstra University,10.236796281136474 mi
+"LINESTRING (-73.7513323 42.71894959999999, -72.5300515 42.3867598)",Siena College & University of Massachusetts Amherst,66.2625772293397 mi
+"LINESTRING (-73.5993965 40.7166872, -73.1204032 40.908119)",Hofstra University & Stony Brook University,28.326203774251884 mi
+"LINESTRING (-73.2575513 41.1598949, -73.1204032 40.908119)",Fairfield University & Stony Brook University,18.80751972376124 mi
+"LINESTRING (-73.2575513 41.1598949, -73.24239469999999 41.220562)",Fairfield University & Sacred Heart University,4.265175826263688 mi
+"LINESTRING (-73.24239469999999 41.220562, -72.92234309999999 41.3163244)",Sacred Heart University & Yale University,17.889800053494262 mi
+"LINESTRING (-73.1964637 44.4778528, -72.2886934 43.70444059999999)",University of Vermont & Dartmouth College,69.89202162193689 mi
+"LINESTRING (-72.92234309999999 41.3163244, -72.89364929999999 41.4189262)",Yale University & Quinnipiac University,7.243636210234874 mi
+"LINESTRING (-72.89364929999999 41.4189262, -72.7638508 41.6931245)",Quinnipiac University & Central Connecticut State University,20.098986767193033 mi
+"LINESTRING (-72.7638508 41.6931245, -72.2539805 41.8077414)",Central Connecticut State University & University of Connecticut,27.449836520640314 mi
+"LINESTRING (-72.5300515 42.3867598, -71.8079608 42.2392391)",University of Massachusetts Amherst & College of the Holy Cross,38.27616714997212 mi
+"LINESTRING (-72.2886934 43.70444059999999, -70.92890539999999 43.1373391)",Dartmouth College & University of New Hampshire,78.68841690588644 mi
+"LINESTRING (-72.2539805 41.8077414, -71.8079608 42.2392391)",University of Connecticut & College of the Holy Cross,37.589410919214345 mi
+"LINESTRING (-71.8079608 42.2392391, -71.53772649999999 41.9220919)",College of the Holy Cross & Bryant University,25.927291816024095 mi
+"LINESTRING (-71.53772649999999 41.9220919, -71.4347475 41.8440047)",Bryant University & Providence College,7.5612153302925 mi
+"LINESTRING (-71.53067879999999 41.4862328, -71.4025482 41.82677179999999)",University of Rhode Island & Brown University,24.441278855583604 mi
+"LINESTRING (-71.4347475 41.8440047, -71.4025482 41.82677179999999)",Providence College & Brown University,2.0409313344694193 mi
+"LINESTRING (-71.4025482 41.82677179999999, -71.08091300000001 42.05810530000001)",Brown University & Stonehill College,22.993856222120176 mi
+"LINESTRING (-71.3247164 42.6552587, -71.1234527 42.6673814)",University of Massachusetts Lowell & Merrimack College,10.260427922503432 mi
+"LINESTRING (-71.16849450000001 42.3355488, -71.1053991 42.3504997)",Boston College & Boston University,3.3837711302506 mi
+"LINESTRING (-71.1234527 42.6673814, -70.92890539999999 43.1373391)",Merrimack College & University of New Hampshire,33.93136173115063 mi
+"LINESTRING (-71.1234527 42.6673814, -71.1182488 42.3744368)",Merrimack College & Harvard University,20.242476587318226 mi
+"LINESTRING (-71.1182488 42.3744368, -71.1053991 42.3504997)",Harvard University & Boston University,1.7792665014255498 mi
+"LINESTRING (-71.1053991 42.3504997, -71.0898892 42.339904)",Boston University & Northeastern University,1.0785710093696406 mi
+"LINESTRING (-71.0898892 42.339904, -71.08091300000001 42.05810530000001)",Northeastern University & Stonehill College,19.476046177598413 mi
+"LINESTRING (-70.92890539999999 43.1373391, -68.66882509999999 44.901867)",University of New Hampshire & University of Maine,165.7389643434948 mi

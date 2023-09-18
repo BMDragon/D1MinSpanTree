@@ -33,7 +33,8 @@ public class Main {
         }
     }
 
-    private static final int DEGREES_PER_RADIAN = 180;
+    private static final double DEGREES_PER_RADIAN = 180./Math.PI;
+    private static final double EARTH_RADIUS = 3958.8;
     private static final String INPUT_FILE = "./resources/D1Schools.csv";
     private static final String SAVE_FILE = "./resources/D1MinSpanTree.csv";
 
@@ -121,7 +122,7 @@ public class Main {
     private static double greatCircleDistance(Node A, Node B) {
         double aLat = A.latitude / DEGREES_PER_RADIAN, bLat = B.latitude / DEGREES_PER_RADIAN;
         double aLong = A.longitude / DEGREES_PER_RADIAN, bLong = B.longitude / DEGREES_PER_RADIAN;
-        return Math.acos(Math.cos(aLat) * Math.cos(bLat) * Math.cos(aLong - bLong) +
+        return EARTH_RADIUS * Math.acos(Math.cos(aLat) * Math.cos(bLat) * Math.cos(aLong - bLong) +
                 Math.sin(aLat) * Math.sin(bLat));
     }
 
@@ -162,7 +163,7 @@ public class Main {
         for (Node node : nodes) {
             for (Node edge : node.tree) {
                 line = "\"LINESTRING (" + node.longitude + " " + node.latitude + ", " + edge.longitude + " "
-                        + edge.latitude + ")\"," + node.name + " & " + edge.name + ",\n";
+                        + edge.latitude + ")\"," + node.name + " & " + edge.name + "," + greatCircleDistance(node, edge) + " mi\n";
 
                 fileWriter.write(line);
             }
