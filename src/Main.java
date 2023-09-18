@@ -1,7 +1,10 @@
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
+import java.util.PriorityQueue;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -35,13 +38,20 @@ public class Main {
     private static final String SAVE_FILE = "./resources/D1MinSpanTree.csv";
 
     private static ArrayList<Node> nodes;
-    private static HashSet<Node> nodesInTree;
+    private static PriorityQueue<Node> queue;
 
     public static void main(String[] args) {
         nodes = new ArrayList<>();
-        nodesInTree = new HashSet<>();
+        queue = new PriorityQueue<>(new Comparator<Node>() {
+            public int compare(Node n1, Node n2) {
+                return Double.compare(Collections.min(n1.connections.values()),
+                        Collections.min(n2.connections.values()));
+            }
+        });
         readCSVFile(INPUT_FILE);
         connectEdges();
+        minimumSpanningTree();
+        writeCSV(SAVE_FILE);
     }
 
     private static void readCSVFile(String filename) {
@@ -116,13 +126,29 @@ public class Main {
     }
 
     private static void minimumSpanningTree() {
-        // Use Prim's algorithm
+        Node current, closest, start = nodes.get(0); // Start with Hawaii
+        queue.add(start);
+        while (queue.size() != nodes.size()) {
+            current = queue.poll();
+            closest = Collections.min(current.connections.entrySet(), Map.Entry.comparingByValue()).getKey();
+            if (!queue.contains(closest)) {
+                if (current.compareTo(closest) < 0) {
+                    current.tree.add(closest);
+                } else {
+                    closest.tree.add(current);
+                }
+                closest.connections.remove(current);
+                queue.add(closest);
+            }
+            current.connections.remove(closest);
+            queue.add(current);
+        }
     }
 
     private static void writeCSV(String saveFile) {
         File csvOutput = new File(saveFile);
         try {
-            FileWriter fileWriter = new FileWriter(csvOutput);
+            FileWriter fileWriter = new FileWriter(csvOutput, false);
             fileWriter.write("WKT,name,description\n");
             writeLines(fileWriter);
             fileWriter.close();
@@ -137,8 +163,9 @@ public class Main {
             for (Node edge : node.tree) {
                 line = "\"LINESTRING (" + node.longitude + " " + node.latitude + ", " + edge.longitude + " "
                         + edge.latitude + ")\"," + node.name + " & " + edge.name + ",\n";
+
+                fileWriter.write(line);
             }
-            fileWriter.write(line);
         }
     }
 }
