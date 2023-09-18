@@ -34,7 +34,7 @@ public class Main {
     }
 
     private static final double DEGREES_PER_RADIAN = 180. / Math.PI;
-    private static final double EARTH_RADIUS = 3958.8;
+    private static final double EARTH_RADIUS = 3963.;
     private static final String INPUT_FILE = "./resources/D1Schools.csv";
     private static final String SAVE_FILE = "./resources/D1MinSpanTree.csv";
 
@@ -94,7 +94,7 @@ public class Main {
         double hawaiiCutOff = -118, degreeDifference;
         Node current;
         for (int i = 0; i < nodes.size() - 1; i++) {
-            degreeDifference = 10;
+            degreeDifference = 6;
             current = nodes.get(i);
             if (i == 0) { // Hawaii
                 degreeDifference = hawaiiCutOff - current.longitude;
